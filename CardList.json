@@ -1,0 +1,28 @@
+{
+  "MhFG-002": {
+    "id": "MhFG-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Young Rathian",
+        "type": "Monster",
+        "cost": "6",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG-002.jpg",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Young Rathian",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "6",
+    "Strength": "2",
+    "Health Point": "4",
+    "Type": [
+      "Rathian",
+      "Flying Wyvern"
+    ]
+  }
+}
