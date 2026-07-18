@@ -21,6 +21,7 @@
     "Strength": "2",
     "Health Point": "4",
     "Type": [
+      "Large Monster",
       "Rathian",
       "Flying Wyvern"
     ]
