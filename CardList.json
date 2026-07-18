@@ -1,13 +1,94 @@
 {
-  "MhFG-002": {
-    "id": "MhFG-002",
+  "MhFG-001-fr": {
+    "id": "MhFG-001-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lao-Shan Lung, dragon endormie",
+        "type": "Monster",
+        "cost": "12",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Lao-Shan Lung, dragon endormie",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "12",
+    "Strength": "2",
+    "Health Point": "12",
+    "Type": [
+      "Large Monster",
+      "Lao-Shan Lung",
+      "Elder Dragon"
+    ]
+  },
+  "MhFG-001-en": {
+    "id": "MhFG-001-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lao-Shan Lung, Sleeping Dragon",
+        "type": "Monster",
+        "cost": "12",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Lao-Shan Lung, Sleeping Dragon",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "12",
+    "Strength": "2",
+    "Health Point": "12",
+    "Type": [
+      "Large Monster",
+      "Lao-Shan Lung",
+      "Elder Dragon"
+    ]
+  },
+  "MhFG-002-fr": {
+    "id": "MhFG-002-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jeune Rathian",
+        "type": "Monster",
+        "cost": "6",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Jeune Rathian",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "6",
+    "Strength": "2",
+    "Health Point": "4",
+    "Type": [
+      "Large Monster",
+      "Rathian",
+      "Flying Wyvern"
+    ]
+  },
+  "MhFG-002-en": {
+    "id": "MhFG-002-en",
     "isToken": false,
     "face": {
       "front": {
         "name": "Young Rathian",
         "type": "Monster",
         "cost": "6",
-        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG-002.jpg",
+        "image": "",
         "isHorizontal": false
       }
     },
@@ -25,5 +106,4304 @@
       "Rathian",
       "Flying Wyvern"
     ]
+  },
+  "MhFG-003-fr": {
+    "id": "MhFG-003-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gypceros, L'éblouissant",
+        "type": "Monster",
+        "cost": "8",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Gypceros, L'éblouissant",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "8",
+    "Strength": "2",
+    "Health Point": "5",
+    "Type": [
+      "Large Monster",
+      "Gypceros",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-003-en": {
+    "id": "MhFG-003-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gypceros, the Dazzler",
+        "type": "Monster",
+        "cost": "8",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Gypceros, the Dazzler",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "8",
+    "Strength": "2",
+    "Health Point": "5",
+    "Type": [
+      "Large Monster",
+      "Gypceros",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-004-fr": {
+    "id": "MhFG-004-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gypceros améthyste, simulacre de mort",
+        "type": "Monster",
+        "cost": "9",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Gypceros améthyste, simulacre de mort",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "9",
+    "Strength": "3",
+    "Health Point": "7",
+    "Type": [
+      "Large Monster",
+      "Gypceros",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-004-en": {
+    "id": "MhFG-004-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Purple Gypceros, Feigning Death",
+        "type": "Monster",
+        "cost": "9",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Purple Gypceros, Feigning Death",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "9",
+    "Strength": "3",
+    "Health Point": "7",
+    "Type": [
+      "Large Monster",
+      "Gypceros",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-005-fr": {
+    "id": "MhFG-005-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Iodrome, Chef de Ioprey",
+        "type": "Monster",
+        "cost": "8",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Iodrome, Chef de Ioprey",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "8",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Large Monster",
+      "Iodrome",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-005-en": {
+    "id": "MhFG-005-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Iodrome, Ioprey Chief",
+        "type": "Monster",
+        "cost": "8",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Iodrome, Ioprey Chief",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "8",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Large Monster",
+      "Iodrome",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-006-fr": {
+    "id": "MhFG-006-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poogie Cultivateur",
+        "type": "Monster",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Poogie Cultivateur",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "4",
+    "Strength": "0",
+    "Health Point": "3",
+    "Type": [
+      "Small Monster",
+      "Poogie"
+    ]
+  },
+  "MhFG-006-en": {
+    "id": "MhFG-006-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Farmer Poogie",
+        "type": "Monster",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Farmer Poogie",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "4",
+    "Strength": "0",
+    "Health Point": "3",
+    "Type": [
+      "Small Monster",
+      "Poogie"
+    ]
+  },
+  "MhFG-007-fr": {
+    "id": "MhFG-007-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mosswine",
+        "type": "Monster",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Mosswine",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "3",
+    "Strength": "0",
+    "Health Point": "2",
+    "Type": []
+  },
+  "MhFG-007-en": {
+    "id": "MhFG-007-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mosswine",
+        "type": "Monster",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Mosswine",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "3",
+    "Strength": "0",
+    "Health Point": "2",
+    "Type": []
+  },
+  "MhFG-008-fr": {
+    "id": "MhFG-008-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ioprey, Protecteur du chef",
+        "type": "Monster",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Ioprey, Protecteur du chef",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "4",
+    "Strength": "1",
+    "Health Point": "3",
+    "Type": [
+      "Small Monster",
+      "Ioprey",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-008-en": {
+    "id": "MhFG-008-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ioprey, Chief's Protector",
+        "type": "Monster",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Ioprey, Chief's Protector",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "4",
+    "Strength": "1",
+    "Health Point": "3",
+    "Type": [
+      "Small Monster",
+      "Ioprey",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-009-fr": {
+    "id": "MhFG-009-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Felyne Infirmier",
+        "type": "Monster",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Felyne Infirmier",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "2",
+    "Strength": "0",
+    "Health Point": "2",
+    "Type": [
+      "Small Monster",
+      "Lynians"
+    ]
+  },
+  "MhFG-009-en": {
+    "id": "MhFG-009-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Healer Felyne",
+        "type": "Monster",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Healer Felyne",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "2",
+    "Strength": "0",
+    "Health Point": "2",
+    "Type": [
+      "Small Monster",
+      "Lynians"
+    ]
+  },
+  "MhFG-010-fr": {
+    "id": "MhFG-010-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vivian, Le gourmand",
+        "type": "Hunter",
+        "cost": "5",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Vivian, Le gourmand",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "5",
+    "Strength": "2",
+    "Health Point": "5",
+    "Type": [
+      "Bow"
+    ]
+  },
+  "MhFG-010-en": {
+    "id": "MhFG-010-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vivian, the Glutton",
+        "type": "Hunter",
+        "cost": "5",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Vivian, the Glutton",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "5",
+    "Strength": "2",
+    "Health Point": "5",
+    "Type": [
+      "Bow"
+    ]
+  },
+  "MhFG-011-fr": {
+    "id": "MhFG-011-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zero, adorateur de miel",
+        "type": "Hunter",
+        "cost": "8",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Zero, adorateur de miel",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "8",
+    "Strength": "3",
+    "Health Point": "6",
+    "Type": [
+      "Sword & Shield"
+    ]
+  },
+  "MhFG-011-en": {
+    "id": "MhFG-011-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zero, Honey Devotee",
+        "type": "Hunter",
+        "cost": "8",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Zero, Honey Devotee",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "8",
+    "Strength": "3",
+    "Health Point": "6",
+    "Type": [
+      "Sword & Shield"
+    ]
+  },
+  "MhFG-012-fr": {
+    "id": "MhFG-012-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zora, apaisé par la forêt",
+        "type": "Hunter",
+        "cost": "10",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Zora, apaisé par la forêt",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "10",
+    "Strength": "3",
+    "Health Point": "6",
+    "Type": [
+      "Long Sword"
+    ]
+  },
+  "MhFG-012-en": {
+    "id": "MhFG-012-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zora, Forest-Calmed",
+        "type": "Hunter",
+        "cost": "10",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Zora, Forest-Calmed",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "10",
+    "Strength": "3",
+    "Health Point": "6",
+    "Type": [
+      "Long Sword"
+    ]
+  },
+  "MhFG-013-fr": {
+    "id": "MhFG-013-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ellie, aiguiseuse d'arme",
+        "type": "Hunter",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Ellie, aiguiseuse d'arme",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "3",
+    "Strength": "1",
+    "Health Point": "4",
+    "Type": []
+  },
+  "MhFG-013-en": {
+    "id": "MhFG-013-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ellie, Weapon Sharpener",
+        "type": "Hunter",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Ellie, Weapon Sharpener",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "3",
+    "Strength": "1",
+    "Health Point": "4",
+    "Type": []
+  },
+  "MhFG-014-fr": {
+    "id": "MhFG-014-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Barde du chêne",
+        "type": "Hunter",
+        "cost": "6",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Barde du chêne",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "6",
+    "Strength": "1",
+    "Health Point": "6",
+    "Type": [
+      "Hunting Horn"
+    ]
+  },
+  "MhFG-014-en": {
+    "id": "MhFG-014-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oak Bard",
+        "type": "Hunter",
+        "cost": "6",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Oak Bard",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "6",
+    "Strength": "1",
+    "Health Point": "6",
+    "Type": [
+      "Hunting Horn"
+    ]
+  },
+  "MhFG-015-fr": {
+    "id": "MhFG-015-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Potion",
+        "type": "Item",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Potion",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-015-en": {
+    "id": "MhFG-015-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Potion",
+        "type": "Item",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Potion",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-016-fr": {
+    "id": "MhFG-016-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flute de santé",
+        "type": "Item",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Flute de santé",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-016-en": {
+    "id": "MhFG-016-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Health Flute",
+        "type": "Item",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Health Flute",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-017-fr": {
+    "id": "MhFG-017-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poudre de vie",
+        "type": "Item",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Poudre de vie",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-017-en": {
+    "id": "MhFG-017-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Life Powder",
+        "type": "Item",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Life Powder",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-018-fr": {
+    "id": "MhFG-018-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Steak à point",
+        "type": "Item",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Steak à point",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "4",
+    "Type": []
+  },
+  "MhFG-018-en": {
+    "id": "MhFG-018-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Well-Done Steak",
+        "type": "Item",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Well-Done Steak",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "4",
+    "Type": []
+  },
+  "MhFG-019-fr": {
+    "id": "MhFG-019-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bond en avant",
+        "type": "Technique",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Bond en avant",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-019-en": {
+    "id": "MhFG-019-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leap Forward",
+        "type": "Technique",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Leap Forward",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-020-fr": {
+    "id": "MhFG-020-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cuisine Felyne",
+        "type": "Technique",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Cuisine Felyne",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-020-en": {
+    "id": "MhFG-020-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Felyne Cuisine",
+        "type": "Technique",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Felyne Cuisine",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-021-fr": {
+    "id": "MhFG-021-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Etude de terrain",
+        "type": "Technique",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Etude de terrain",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "4",
+    "Type": []
+  },
+  "MhFG-021-en": {
+    "id": "MhFG-021-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Field Study",
+        "type": "Technique",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Field Study",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "4",
+    "Type": []
+  },
+  "MhFG-022-fr": {
+    "id": "MhFG-022-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pousse aléatoire",
+        "type": "Technique",
+        "cost": "1",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Pousse aléatoire",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "1",
+    "Type": []
+  },
+  "MhFG-022-en": {
+    "id": "MhFG-022-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Random Growth",
+        "type": "Technique",
+        "cost": "1",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Random Growth",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "1",
+    "Type": []
+  },
+  "MhFG-023-fr": {
+    "id": "MhFG-023-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rythme de la forêt",
+        "type": "Technique",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Rythme de la forêt",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-023-en": {
+    "id": "MhFG-023-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rhythm of the Forest",
+        "type": "Technique",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Green"
+    ],
+    "name": "Rhythm of the Forest",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-024-fr": {
+    "id": "MhFG-024-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rathian, dominante des plaines",
+        "type": "Monster",
+        "cost": "8",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Rathian, dominante des plaines",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "8",
+    "Strength": "3",
+    "Health Point": "7",
+    "Type": [
+      "Large Monster",
+      "Rathian",
+      "Flying Wyvern"
+    ]
+  },
+  "MhFG-024-en": {
+    "id": "MhFG-024-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rathian, Plains Dominator",
+        "type": "Monster",
+        "cost": "8",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Rathian, Plains Dominator",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "8",
+    "Strength": "3",
+    "Health Point": "7",
+    "Type": [
+      "Large Monster",
+      "Rathian",
+      "Flying Wyvern"
+    ]
+  },
+  "MhFG-025-fr": {
+    "id": "MhFG-025-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Velocidrome, chef des faibles",
+        "type": "Monster",
+        "cost": "5",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Velocidrome, chef des faibles",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "5",
+    "Strength": "1",
+    "Health Point": "5",
+    "Type": [
+      "Large Monster",
+      "Velocidrome",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-025-en": {
+    "id": "MhFG-025-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Velocidrome, Chief of the Weak",
+        "type": "Monster",
+        "cost": "5",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Velocidrome, Chief of the Weak",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "5",
+    "Strength": "1",
+    "Health Point": "5",
+    "Type": [
+      "Large Monster",
+      "Velocidrome",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-026-fr": {
+    "id": "MhFG-026-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yian Kut-ku, espiègle et profiteuse",
+        "type": "Monster",
+        "cost": "6",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Yian Kut-ku, espiègle et profiteuse",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "6",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Large Monster",
+      "Yian Kut-ku",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-026-en": {
+    "id": "MhFG-026-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yian Kut-Ku, Mischievous Opportunist",
+        "type": "Monster",
+        "cost": "6",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Yian Kut-Ku, Mischievous Opportunist",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "6",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Large Monster",
+      "Yian Kut-ku",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-027-fr": {
+    "id": "MhFG-027-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yian Kut-ku Bleu, Poulet frénétique",
+        "type": "Monster",
+        "cost": "9",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Yian Kut-ku Bleu, Poulet frénétique",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "9",
+    "Strength": "2",
+    "Health Point": "7",
+    "Type": [
+      "Large Monster",
+      "Yian Kut-ku",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-027-en": {
+    "id": "MhFG-027-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blue Yian Kut-Ku, Frenzied Chicken",
+        "type": "Monster",
+        "cost": "9",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Blue Yian Kut-Ku, Frenzied Chicken",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "9",
+    "Strength": "2",
+    "Health Point": "7",
+    "Type": [
+      "Large Monster",
+      "Yian Kut-ku",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-028-fr": {
+    "id": "MhFG-028-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Velociprey, chercheur de viande",
+        "type": "Monster",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Velociprey, chercheur de viande",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "3",
+    "Strength": "2",
+    "Health Point": "2",
+    "Type": [
+      "Small Monster",
+      "Velociprey",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-028-en": {
+    "id": "MhFG-028-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Velociprey, Meat Seeker",
+        "type": "Monster",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Velociprey, Meat Seeker",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "3",
+    "Strength": "2",
+    "Health Point": "2",
+    "Type": [
+      "Small Monster",
+      "Velociprey",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-029-fr": {
+    "id": "MhFG-029-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kelbi",
+        "type": "Monster",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Kelbi",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "2",
+    "Strength": "0",
+    "Health Point": "3",
+    "Type": []
+  },
+  "MhFG-029-en": {
+    "id": "MhFG-029-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kelbi",
+        "type": "Monster",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Kelbi",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "2",
+    "Strength": "0",
+    "Health Point": "3",
+    "Type": []
+  },
+  "MhFG-030-fr": {
+    "id": "MhFG-030-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bullfango",
+        "type": "Monster",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Bullfango",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "3",
+    "Strength": "1",
+    "Health Point": "4",
+    "Type": [
+      "Small Monster",
+      "Fanged Beast"
+    ]
+  },
+  "MhFG-030-en": {
+    "id": "MhFG-030-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bullfango",
+        "type": "Monster",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Bullfango",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "3",
+    "Strength": "1",
+    "Health Point": "4",
+    "Type": [
+      "Small Monster",
+      "Fanged Beast"
+    ]
+  },
+  "MhFG-031-fr": {
+    "id": "MhFG-031-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aptonoth",
+        "type": "Monster",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Aptonoth",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "2",
+    "Strength": "0",
+    "Health Point": "3",
+    "Type": []
+  },
+  "MhFG-031-en": {
+    "id": "MhFG-031-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aptonoth",
+        "type": "Monster",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Aptonoth",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "2",
+    "Strength": "0",
+    "Health Point": "3",
+    "Type": []
+  },
+  "MhFG-032-fr": {
+    "id": "MhFG-032-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bébé Aptonoth",
+        "type": "Monster",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Bébé Aptonoth",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "2",
+    "Strength": "0",
+    "Health Point": "2",
+    "Type": []
+  },
+  "MhFG-032-en": {
+    "id": "MhFG-032-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Baby Aptonoth",
+        "type": "Monster",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Baby Aptonoth",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "2",
+    "Strength": "0",
+    "Health Point": "2",
+    "Type": []
+  },
+  "MhFG-033-fr": {
+    "id": "MhFG-033-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dépeceur de peau",
+        "type": "Hunter",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Dépeceur de peau",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "3",
+    "Strength": "1",
+    "Health Point": "3",
+    "Type": []
+  },
+  "MhFG-033-en": {
+    "id": "MhFG-033-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Skinner",
+        "type": "Hunter",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Skinner",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "3",
+    "Strength": "1",
+    "Health Point": "3",
+    "Type": []
+  },
+  "MhFG-034-fr": {
+    "id": "MhFG-034-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moon, vagabond des plaines",
+        "type": "Hunter",
+        "cost": "8",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Moon, vagabond des plaines",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "8",
+    "Strength": "3",
+    "Health Point": "5",
+    "Type": [
+      "Dual Blades"
+    ]
+  },
+  "MhFG-034-en": {
+    "id": "MhFG-034-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moon, Plains Wanderer",
+        "type": "Hunter",
+        "cost": "8",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Moon, Plains Wanderer",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "8",
+    "Strength": "3",
+    "Health Point": "5",
+    "Type": [
+      "Dual Blades"
+    ]
+  },
+  "MhFG-035-fr": {
+    "id": "MhFG-035-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vash, lancier téméraire",
+        "type": "Hunter",
+        "cost": "5",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Vash, lancier téméraire",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "5",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Lance"
+    ]
+  },
+  "MhFG-035-en": {
+    "id": "MhFG-035-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vash, Reckless Lancer",
+        "type": "Hunter",
+        "cost": "5",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Vash, Reckless Lancer",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "5",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Lance"
+    ]
+  },
+  "MhFG-036-fr": {
+    "id": "MhFG-036-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Titus, adjoint lancier",
+        "type": "Hunter",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Titus, adjoint lancier",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "3",
+    "Strength": "0",
+    "Health Point": "3",
+    "Type": []
+  },
+  "MhFG-036-en": {
+    "id": "MhFG-036-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Titus, Lancer's Assistant",
+        "type": "Hunter",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Titus, Lancer's Assistant",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "3",
+    "Strength": "0",
+    "Health Point": "3",
+    "Type": []
+  },
+  "MhFG-037-fr": {
+    "id": "MhFG-037-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vivien, Le trouveur de faiblesse",
+        "type": "Hunter",
+        "cost": "7",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Vivien, Le trouveur de faiblesse",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "7",
+    "Strength": "2",
+    "Health Point": "7",
+    "Type": [
+      "Gunlance"
+    ]
+  },
+  "MhFG-037-en": {
+    "id": "MhFG-037-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vivien, Weakness Finder",
+        "type": "Hunter",
+        "cost": "7",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Vivien, Weakness Finder",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "7",
+    "Strength": "2",
+    "Health Point": "7",
+    "Type": [
+      "Gunlance"
+    ]
+  },
+  "MhFG-038-fr": {
+    "id": "MhFG-038-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gartin, petit tireur",
+        "type": "Hunter",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Gartin, petit tireur",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "4",
+    "Strength": "1",
+    "Health Point": "5",
+    "Type": [
+      "Light Bowgun"
+    ]
+  },
+  "MhFG-038-en": {
+    "id": "MhFG-038-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gartin, Little Gunner",
+        "type": "Hunter",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Gartin, Little Gunner",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "4",
+    "Strength": "1",
+    "Health Point": "5",
+    "Type": [
+      "Light Bowgun"
+    ]
+  },
+  "MhFG-039-fr": {
+    "id": "MhFG-039-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Catalyseur",
+        "type": "Item",
+        "cost": "5",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Catalyseur",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "5",
+    "Type": []
+  },
+  "MhFG-039-en": {
+    "id": "MhFG-039-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Catalyst",
+        "type": "Item",
+        "cost": "5",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Catalyst",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "5",
+    "Type": []
+  },
+  "MhFG-040-fr": {
+    "id": "MhFG-040-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Immunisateur",
+        "type": "Item",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Immunisateur",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-040-en": {
+    "id": "MhFG-040-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Immunizer",
+        "type": "Item",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Immunizer",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-041-fr": {
+    "id": "MhFG-041-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tambour de tribu",
+        "type": "Item",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Tambour de tribu",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-041-en": {
+    "id": "MhFG-041-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tribal Drum",
+        "type": "Item",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Tribal Drum",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-042-fr": {
+    "id": "MhFG-042-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Volonté des faibles",
+        "type": "Technique",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Volonté des faibles",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-042-en": {
+    "id": "MhFG-042-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Will of the Weak",
+        "type": "Technique",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Will of the Weak",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-043-fr": {
+    "id": "MhFG-043-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cycle de la vie",
+        "type": "Technique",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Cycle de la vie",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "4",
+    "Type": []
+  },
+  "MhFG-043-en": {
+    "id": "MhFG-043-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cycle of Life",
+        "type": "Technique",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Cycle of Life",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "4",
+    "Type": []
+  },
+  "MhFG-044-fr": {
+    "id": "MhFG-044-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "La meute arrive !",
+        "type": "Technique",
+        "cost": "5",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "La meute arrive !",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "5",
+    "Type": []
+  },
+  "MhFG-044-en": {
+    "id": "MhFG-044-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Pack Arrives!",
+        "type": "Technique",
+        "cost": "5",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "The Pack Arrives!",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "5",
+    "Type": []
+  },
+  "MhFG-045-fr": {
+    "id": "MhFG-045-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blocage parfait",
+        "type": "Technique",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Blocage parfait",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-045-en": {
+    "id": "MhFG-045-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Perfect Block",
+        "type": "Technique",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Perfect Block",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-046-fr": {
+    "id": "MhFG-046-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Partage des restes",
+        "type": "Technique",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Partage des restes",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-046-en": {
+    "id": "MhFG-046-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sharing the Leftovers",
+        "type": "Technique",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Yellow"
+    ],
+    "name": "Sharing the Leftovers",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-047-fr": {
+    "id": "MhFG-047-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Monoblos, prédateur des chasseurs",
+        "type": "Monster",
+        "cost": "8",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Monoblos, prédateur des chasseurs",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "8",
+    "Strength": "2",
+    "Health Point": "7",
+    "Type": [
+      "Large Monster",
+      "Monoblos",
+      "Flying Wyvern"
+    ]
+  },
+  "MhFG-047-en": {
+    "id": "MhFG-047-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Monoblos, Hunter Predator",
+        "type": "Monster",
+        "cost": "8",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Monoblos, Hunter Predator",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "8",
+    "Strength": "2",
+    "Health Point": "7",
+    "Type": [
+      "Large Monster",
+      "Monoblos",
+      "Flying Wyvern"
+    ]
+  },
+  "MhFG-048-fr": {
+    "id": "MhFG-048-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Diablos,celui qui insuffle la peur",
+        "type": "Monster",
+        "cost": "8",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Diablos,celui qui insuffle la peur",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "8",
+    "Strength": "2",
+    "Health Point": "7",
+    "Type": [
+      "Large Monster",
+      "Diablos",
+      "Flying Wyvern"
+    ]
+  },
+  "MhFG-048-en": {
+    "id": "MhFG-048-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Diablos, the Fearbringer",
+        "type": "Monster",
+        "cost": "8",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Diablos, the Fearbringer",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "8",
+    "Strength": "2",
+    "Health Point": "7",
+    "Type": [
+      "Large Monster",
+      "Diablos",
+      "Flying Wyvern"
+    ]
+  },
+  "MhFG-049-fr": {
+    "id": "MhFG-049-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cephadrome, le lâche",
+        "type": "Monster",
+        "cost": "7",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Cephadrome, le lâche",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "7",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Large Monster",
+      "Cephadrome",
+      "Piscine Wyvern"
+    ]
+  },
+  "MhFG-049-en": {
+    "id": "MhFG-049-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cephadrome, the Coward",
+        "type": "Monster",
+        "cost": "7",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Cephadrome, the Coward",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "7",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Large Monster",
+      "Cephadrome",
+      "Piscine Wyvern"
+    ]
+  },
+  "MhFG-050-fr": {
+    "id": "MhFG-050-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gendrome, mobilise les faibles",
+        "type": "Monster",
+        "cost": "6",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Gendrome, mobilise les faibles",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "6",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Large Monster",
+      "Gendrome",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-050-en": {
+    "id": "MhFG-050-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gendrome, Rallying the Weak",
+        "type": "Monster",
+        "cost": "6",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Gendrome, Rallying the Weak",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "6",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Large Monster",
+      "Gendrome",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-051-fr": {
+    "id": "MhFG-051-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vieux Diablos",
+        "type": "Monster",
+        "cost": "11",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Vieux Diablos",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "11",
+    "Strength": "2",
+    "Health Point": "7",
+    "Type": [
+      "Large Monster",
+      "Diablos",
+      "Flying Wyvern"
+    ]
+  },
+  "MhFG-051-en": {
+    "id": "MhFG-051-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Old Diablos",
+        "type": "Monster",
+        "cost": "11",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Old Diablos",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "11",
+    "Strength": "2",
+    "Health Point": "7",
+    "Type": [
+      "Large Monster",
+      "Diablos",
+      "Flying Wyvern"
+    ]
+  },
+  "MhFG-052-fr": {
+    "id": "MhFG-052-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cephalos",
+        "type": "Monster",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Cephalos",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "4",
+    "Strength": "1",
+    "Health Point": "3",
+    "Type": [
+      "Small Monster",
+      "Cephalos",
+      "Piscine Wyvern"
+    ]
+  },
+  "MhFG-052-en": {
+    "id": "MhFG-052-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cephalos",
+        "type": "Monster",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Cephalos",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "4",
+    "Strength": "1",
+    "Health Point": "3",
+    "Type": [
+      "Small Monster",
+      "Cephalos",
+      "Piscine Wyvern"
+    ]
+  },
+  "MhFG-053-fr": {
+    "id": "MhFG-053-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Apceros",
+        "type": "Monster",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Apceros",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "2",
+    "Strength": "0",
+    "Health Point": "3",
+    "Type": []
+  },
+  "MhFG-053-en": {
+    "id": "MhFG-053-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Apceros",
+        "type": "Monster",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Apceros",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "2",
+    "Strength": "0",
+    "Health Point": "3",
+    "Type": []
+  },
+  "MhFG-054-fr": {
+    "id": "MhFG-054-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Genprey",
+        "type": "Monster",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Genprey",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "3",
+    "Strength": "2",
+    "Health Point": "1",
+    "Type": [
+      "Small Monster",
+      "Genprey",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-054-en": {
+    "id": "MhFG-054-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Genprey",
+        "type": "Monster",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Genprey",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "3",
+    "Strength": "2",
+    "Health Point": "2",
+    "Type": [
+      "Small Monster",
+      "Genprey",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-055-fr": {
+    "id": "MhFG-055-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gerard Marteau",
+        "type": "Hunter",
+        "cost": "5",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Gerard Marteau",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "5",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Hammer"
+    ]
+  },
+  "MhFG-055-en": {
+    "id": "MhFG-055-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gerard Hammer",
+        "type": "Hunter",
+        "cost": "5",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Gerard Hammer",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "5",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Hammer"
+    ]
+  },
+  "MhFG-056-fr": {
+    "id": "MhFG-056-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orik, le patient",
+        "type": "Hunter",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Orik, le patient",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "4",
+    "Strength": "2",
+    "Health Point": "5",
+    "Type": [
+      "Great Sword"
+    ]
+  },
+  "MhFG-056-en": {
+    "id": "MhFG-056-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orik, the Patient",
+        "type": "Hunter",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Orik, the Patient",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "4",
+    "Strength": "2",
+    "Health Point": "5",
+    "Type": [
+      "Great Sword"
+    ]
+  },
+  "MhFG-057-fr": {
+    "id": "MhFG-057-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sélène, experte des fioles",
+        "type": "Hunter",
+        "cost": "6",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Sélène, experte des fioles",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "6",
+    "Strength": "3",
+    "Health Point": "5",
+    "Type": [
+      "Charge Blade"
+    ]
+  },
+  "MhFG-057-en": {
+    "id": "MhFG-057-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Selene, Phial Expert",
+        "type": "Hunter",
+        "cost": "6",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Selene, Phial Expert",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "6",
+    "Strength": "3",
+    "Health Point": "5",
+    "Type": [
+      "Charge Blade"
+    ]
+  },
+  "MhFG-058-fr": {
+    "id": "MhFG-058-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tuer ou épargner",
+        "type": "Hunter",
+        "cost": "7",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Tuer ou épargner",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "7",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Switch Axe"
+    ]
+  },
+  "MhFG-058-en": {
+    "id": "MhFG-058-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kill or Spare",
+        "type": "Hunter",
+        "cost": "7",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Kill or Spare",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "7",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Switch Axe"
+    ]
+  },
+  "MhFG-059-fr": {
+    "id": "MhFG-059-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Duplicateur de nullos",
+        "type": "Hunter",
+        "cost": "6",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Duplicateur de nullos",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "6",
+    "Strength": "1",
+    "Health Point": "5",
+    "Type": [
+      "Heavy Bowgun"
+    ]
+  },
+  "MhFG-059-en": {
+    "id": "MhFG-059-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nullifier Duplicator",
+        "type": "Hunter",
+        "cost": "6",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Nullifier Duplicator",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "6",
+    "Strength": "1",
+    "Health Point": "5",
+    "Type": [
+      "Heavy Bowgun"
+    ]
+  },
+  "MhFG-060-fr": {
+    "id": "MhFG-060-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chasseur défausse",
+        "type": "Hunter",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Chasseur défausse",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "3",
+    "Strength": "1",
+    "Health Point": "4",
+    "Type": []
+  },
+  "MhFG-060-en": {
+    "id": "MhFG-060-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Discard Hunter",
+        "type": "Hunter",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Discard Hunter",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "3",
+    "Strength": "1",
+    "Health Point": "4",
+    "Type": []
+  },
+  "MhFG-061-fr": {
+    "id": "MhFG-061-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Potion fraiche",
+        "type": "Item",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Potion fraiche",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-061-en": {
+    "id": "MhFG-061-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fresh Potion",
+        "type": "Item",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Fresh Potion",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-062-fr": {
+    "id": "MhFG-062-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Filet",
+        "type": "Item",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Filet",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-062-en": {
+    "id": "MhFG-062-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Net",
+        "type": "Item",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Net",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-063-fr": {
+    "id": "MhFG-063-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Viande paralysante",
+        "type": "Item",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Viande paralysante",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-063-en": {
+    "id": "MhFG-063-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Paralysis Meat",
+        "type": "Item",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Paralysis Meat",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-064-fr": {
+    "id": "MhFG-064-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pierre à aiguiser lourde",
+        "type": "Item",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Pierre à aiguiser lourde",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-064-en": {
+    "id": "MhFG-064-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heavy Whetstone",
+        "type": "Item",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Heavy Whetstone",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-065-fr": {
+    "id": "MhFG-065-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bonk !",
+        "type": "Technique",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Bonk !",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-065-en": {
+    "id": "MhFG-065-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bonk!",
+        "type": "Technique",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Bonk!",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-066-fr": {
+    "id": "MhFG-066-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tempête de sable",
+        "type": "Technique",
+        "cost": "5",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Tempête de sable",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "5",
+    "Type": []
+  },
+  "MhFG-066-en": {
+    "id": "MhFG-066-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sandstorm",
+        "type": "Technique",
+        "cost": "5",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Sandstorm",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "5",
+    "Type": []
+  },
+  "MhFG-067-fr": {
+    "id": "MhFG-067-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Charge dans les dunes",
+        "type": "Technique",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Charge dans les dunes",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-067-en": {
+    "id": "MhFG-067-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dune Charge",
+        "type": "Technique",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Dune Charge",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-068-fr": {
+    "id": "MhFG-068-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Esprit du désert",
+        "type": "Technique",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Esprit du désert",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-068-en": {
+    "id": "MhFG-068-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spirit of the Desert",
+        "type": "Technique",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Spirit of the Desert",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-069-fr": {
+    "id": "MhFG-069-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Usé par le sable",
+        "type": "Technique",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Usé par le sable",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-069-en": {
+    "id": "MhFG-069-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Worn by Sand",
+        "type": "Technique",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Orange"
+    ],
+    "name": "Worn by Sand",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-070-fr": {
+    "id": "MhFG-070-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ancien Rathalos.",
+        "type": "Monster",
+        "cost": "12",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Ancien Rathalos.",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "12",
+    "Strength": "2",
+    "Health Point": "10",
+    "Type": [
+      "Large Monster",
+      "Rathalos",
+      "Flying Wyvern"
+    ]
+  },
+  "MhFG-070-en": {
+    "id": "MhFG-070-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elder Rathalos",
+        "type": "Monster",
+        "cost": "12",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Elder Rathalos",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "12",
+    "Strength": "2",
+    "Health Point": "10",
+    "Type": [
+      "Large Monster",
+      "Rathalos",
+      "Flying Wyvern"
+    ]
+  },
+  "MhFG-071-fr": {
+    "id": "MhFG-071-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rathalos, l’emblème des flammes",
+        "type": "Monster",
+        "cost": "9",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Rathalos, l’emblème des flammes",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "9",
+    "Strength": "4",
+    "Health Point": "5",
+    "Type": [
+      "Large Monster",
+      "Rathalos",
+      "Flying Wyvern"
+    ]
+  },
+  "MhFG-071-en": {
+    "id": "MhFG-071-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rathalos, Emblem of Flames",
+        "type": "Monster",
+        "cost": "9",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Rathalos, Emblem of Flames",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "9",
+    "Strength": "4",
+    "Health Point": "5",
+    "Type": [
+      "Large Monster",
+      "Rathalos",
+      "Flying Wyvern"
+    ]
+  },
+  "MhFG-072-fr": {
+    "id": "MhFG-072-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rathalos Azur, terreur vivante.",
+        "type": "Monster",
+        "cost": "7",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Rathalos Azur, terreur vivante.",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "7",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Large Monster",
+      "Rathalos",
+      "Flying Wyvern"
+    ]
+  },
+  "MhFG-072-en": {
+    "id": "MhFG-072-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Azure Rathalos, Living Terror",
+        "type": "Monster",
+        "cost": "7",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Azure Rathalos, Living Terror",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "7",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Large Monster",
+      "Rathalos",
+      "Flying Wyvern"
+    ]
+  },
+  "MhFG-073-fr": {
+    "id": "MhFG-073-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gravios, Volcan mobile.",
+        "type": "Monster",
+        "cost": "8",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Gravios, Volcan mobile.",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "8",
+    "Strength": "2",
+    "Health Point": "8",
+    "Type": [
+      "Large Monster",
+      "Gravios",
+      "Flying Wyvern"
+    ]
+  },
+  "MhFG-073-en": {
+    "id": "MhFG-073-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gravios, Walking Volcano",
+        "type": "Monster",
+        "cost": "8",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Gravios, Walking Volcano",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "8",
+    "Strength": "2",
+    "Health Point": "8",
+    "Type": [
+      "Large Monster",
+      "Gravios",
+      "Flying Wyvern"
+    ]
+  },
+  "MhFG-074-fr": {
+    "id": "MhFG-074-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Iodrome, manipulateur d’inimité",
+        "type": "Monster",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Iodrome, manipulateur d’inimité",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "4",
+    "Strength": "1",
+    "Health Point": "5",
+    "Type": [
+      "Large Monster",
+      "Iodrome",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-074-en": {
+    "id": "MhFG-074-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Iodrome, Enmity Manipulator",
+        "type": "Monster",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Iodrome, Enmity Manipulator",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "4",
+    "Strength": "1",
+    "Health Point": "5",
+    "Type": [
+      "Large Monster",
+      "Iodrome",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-075-fr": {
+    "id": "MhFG-075-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ioprey, Croc poison",
+        "type": "Monster",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Ioprey, Croc poison",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "2",
+    "Strength": "1",
+    "Health Point": "2",
+    "Type": [
+      "Small Monster",
+      "Ioprey",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-075-en": {
+    "id": "MhFG-075-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ioprey, Poison Fang",
+        "type": "Monster",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Ioprey, Poison Fang",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "2",
+    "Strength": "1",
+    "Health Point": "2",
+    "Type": [
+      "Small Monster",
+      "Ioprey",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-076-fr": {
+    "id": "MhFG-076-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ioprey, adapté au volcan",
+        "type": "Monster",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Ioprey, adapté au volcan",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "3",
+    "Strength": "1",
+    "Health Point": "2",
+    "Type": [
+      "Small Monster",
+      "Ioprey",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-076-en": {
+    "id": "MhFG-076-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ioprey, Volcano-Adapted",
+        "type": "Monster",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Ioprey, Volcano-Adapted",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "3",
+    "Strength": "1",
+    "Health Point": "2",
+    "Type": [
+      "Small Monster",
+      "Ioprey",
+      "Bird Wyvern"
+    ]
+  },
+  "MhFG-077-fr": {
+    "id": "MhFG-077-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poogie Sauna",
+        "type": "Monster",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Poogie Sauna",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "3",
+    "Strength": "0",
+    "Health Point": "3",
+    "Type": [
+      "Small Monster",
+      "Poogie"
+    ]
+  },
+  "MhFG-077-en": {
+    "id": "MhFG-077-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sauna Poogie",
+        "type": "Monster",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Sauna Poogie",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "3",
+    "Strength": "0",
+    "Health Point": "3",
+    "Type": [
+      "Small Monster",
+      "Poogie"
+    ]
+  },
+  "MhFG-078-fr": {
+    "id": "MhFG-078-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Felyne artificier",
+        "type": "Monster",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Felyne artificier",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "2",
+    "Strength": "0",
+    "Health Point": "2",
+    "Type": [
+      "Small Monster",
+      "Lynians"
+    ]
+  },
+  "MhFG-078-en": {
+    "id": "MhFG-078-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Felyne Demolitionist",
+        "type": "Monster",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Felyne Demolitionist",
+    "Set": "MhFG",
+    "type": "Monster",
+    "cost": "2",
+    "Strength": "0",
+    "Health Point": "2",
+    "Type": [
+      "Small Monster",
+      "Lynians"
+    ]
+  },
+  "MhFG-079-fr": {
+    "id": "MhFG-079-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Corvin, artilleur léger",
+        "type": "Hunter",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Corvin, artilleur léger",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "4",
+    "Strength": "1",
+    "Health Point": "4",
+    "Type": [
+      "Light Bowgun"
+    ]
+  },
+  "MhFG-079-en": {
+    "id": "MhFG-079-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Corvin, Light Gunner",
+        "type": "Hunter",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Corvin, Light Gunner",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "4",
+    "Strength": "1",
+    "Health Point": "4",
+    "Type": [
+      "Light Bowgun"
+    ]
+  },
+  "MhFG-080-fr": {
+    "id": "MhFG-080-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bran, l’éclaireur",
+        "type": "Hunter",
+        "cost": "6",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Bran, l’éclaireur",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "6",
+    "Strength": "1",
+    "Health Point": "5",
+    "Type": [
+      "Heavy Bowgun"
+    ]
+  },
+  "MhFG-080-en": {
+    "id": "MhFG-080-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bran, the Scout",
+        "type": "Hunter",
+        "cost": "6",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Bran, the Scout",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "6",
+    "Strength": "1",
+    "Health Point": "5",
+    "Type": [
+      "Heavy Bowgun"
+    ]
+  },
+  "MhFG-081-fr": {
+    "id": "MhFG-081-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rohan, pyro-lancier",
+        "type": "Hunter",
+        "cost": "7",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Rohan, pyro-lancier",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "7",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Gunlance"
+    ]
+  },
+  "MhFG-081-en": {
+    "id": "MhFG-081-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rohan, Pyro-Lancer",
+        "type": "Hunter",
+        "cost": "7",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Rohan, Pyro-Lancer",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "7",
+    "Strength": "2",
+    "Health Point": "6",
+    "Type": [
+      "Gunlance"
+    ]
+  },
+  "MhFG-082-fr": {
+    "id": "MhFG-082-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Iska, Bucheron des monstres",
+        "type": "Hunter",
+        "cost": "7",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Iska, Bucheron des monstres",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "7",
+    "Strength": "2",
+    "Health Point": "5",
+    "Type": [
+      "Switch Axe"
+    ]
+  },
+  "MhFG-082-en": {
+    "id": "MhFG-082-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Iska, Monster Lumberjack",
+        "type": "Hunter",
+        "cost": "7",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Iska, Monster Lumberjack",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "7",
+    "Strength": "2",
+    "Health Point": "5",
+    "Type": [
+      "Switch Axe"
+    ]
+  },
+  "MhFG-083-fr": {
+    "id": "MhFG-083-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Technicien en Morpho-hache",
+        "type": "Hunter",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Technicien en Morpho-hache",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "4",
+    "Strength": "1",
+    "Health Point": "4",
+    "Type": []
+  },
+  "MhFG-083-en": {
+    "id": "MhFG-083-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Switch Axe Technician",
+        "type": "Hunter",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Switch Axe Technician",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "4",
+    "Strength": "1",
+    "Health Point": "4",
+    "Type": []
+  },
+  "MhFG-084-fr": {
+    "id": "MhFG-084-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Riven, fury tranchante",
+        "type": "Hunter",
+        "cost": "11",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Riven, fury tranchante",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "11",
+    "Strength": "3",
+    "Health Point": "8",
+    "Type": [
+      "Charge Blade"
+    ]
+  },
+  "MhFG-084-en": {
+    "id": "MhFG-084-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Riven, Cutting Fury",
+        "type": "Hunter",
+        "cost": "11",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Riven, Cutting Fury",
+    "Set": "MhFG",
+    "type": "Hunter",
+    "cost": "11",
+    "Strength": "3",
+    "Health Point": "8",
+    "Type": [
+      "Charge Blade"
+    ]
+  },
+  "MhFG-085-fr": {
+    "id": "MhFG-085-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grande bombe baril",
+        "type": "Item",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Grande bombe baril",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "4",
+    "Type": []
+  },
+  "MhFG-085-en": {
+    "id": "MhFG-085-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Large Barrel Bomb",
+        "type": "Item",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Large Barrel Bomb",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "4",
+    "Type": []
+  },
+  "MhFG-086-fr": {
+    "id": "MhFG-086-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Petite bombe baril",
+        "type": "Item",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Petite bombe baril",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-086-en": {
+    "id": "MhFG-086-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Small Barrel Bomb",
+        "type": "Item",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Small Barrel Bomb",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-087-fr": {
+    "id": "MhFG-087-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Minerai de Machalite",
+        "type": "Item",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Minerai de Machalite",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "2",
+    "Type": [
+      "Ore"
+    ]
+  },
+  "MhFG-087-en": {
+    "id": "MhFG-087-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Machalite Ore",
+        "type": "Item",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Machalite Ore",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "2",
+    "Type": [
+      "Ore"
+    ]
+  },
+  "MhFG-088-fr": {
+    "id": "MhFG-088-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Minerai de Dragonite",
+        "type": "Item",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Minerai de Dragonite",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "2",
+    "Type": [
+      "Ore"
+    ]
+  },
+  "MhFG-088-en": {
+    "id": "MhFG-088-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragonite Ore",
+        "type": "Item",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Dragonite Ore",
+    "Set": "MhFG",
+    "type": "Item",
+    "cost": "2",
+    "Type": [
+      "Ore"
+    ]
+  },
+  "MhFG-089-fr": {
+    "id": "MhFG-089-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tir de barrage",
+        "type": "Technique",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Tir de barrage",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-089-en": {
+    "id": "MhFG-089-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Barrage Shot",
+        "type": "Technique",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Barrage Shot",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-090-fr": {
+    "id": "MhFG-090-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Explosion controlée",
+        "type": "Technique",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Explosion controlée",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-090-en": {
+    "id": "MhFG-090-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Controlled Explosion",
+        "type": "Technique",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Controlled Explosion",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-091-fr": {
+    "id": "MhFG-091-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rage volcanique",
+        "type": "Technique",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Rage volcanique",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-091-en": {
+    "id": "MhFG-091-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Volcanic Rage",
+        "type": "Technique",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Volcanic Rage",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "2",
+    "Type": []
+  },
+  "MhFG-092-fr": {
+    "id": "MhFG-092-fr",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dernière braise",
+        "type": "Technique",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Dernière braise",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "3",
+    "Type": []
+  },
+  "MhFG-092-en": {
+    "id": "MhFG-092-en",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Last Ember",
+        "type": "Technique",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "Color": [
+      "Red"
+    ],
+    "name": "Last Ember",
+    "Set": "MhFG",
+    "type": "Technique",
+    "cost": "3",
+    "Type": []
   }
 }
+
