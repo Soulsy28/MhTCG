@@ -7,7 +7,7 @@
         "name": "Lao-Shan Lung, dragon endormie",
         "type": "Monster",
         "cost": "12",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG-001-fr.jpg",
         "isHorizontal": false
       }
     },
@@ -34,7 +34,7 @@
         "name": "Lao-Shan Lung, Sleeping Dragon",
         "type": "Monster",
         "cost": "12",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG-001-en.jpg",
         "isHorizontal": false
       }
     },
@@ -61,7 +61,7 @@
         "name": "Jeune Rathian",
         "type": "Monster",
         "cost": "6",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG-002-fr.jpg",
         "isHorizontal": false
       }
     },
@@ -88,7 +88,7 @@
         "name": "Young Rathian",
         "type": "Monster",
         "cost": "6",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG-002-en.jpg",
         "isHorizontal": false
       }
     },
