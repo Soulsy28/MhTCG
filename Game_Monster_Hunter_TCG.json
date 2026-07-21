@@ -20,7 +20,13 @@
       "Strenght",
       "HP"
     ],
-    "formats": []
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": []
+      }
+    ]
   },
   "gameplay": {
     "Classic": {
