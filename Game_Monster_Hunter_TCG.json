@@ -1,9 +1,9 @@
 {
   "name": "Monster Hunter TCG",
-  "menuBackgroundImage": "https://soulsy28.github.io/MhTCG/Background/Bannière MhTCG.jpg",
+  "menuBackgroundImage": "https://soulsy28.github.io/MhTCG/Background/Banniere_MhTCG.jpg",
   "defaultRessources": {
     "backgrounds": [
-      "Background/Background/Mizutsune BG.webp"
+      "Background/Background/Mizutsune_BG.webp"
     ],
     "decksUrl": ""
   },
@@ -47,13 +47,13 @@
       "tokens": [
         {
           "name": "Fiole de puissance",
-          "image": "https://soulsy28.github.io/MhTCG/Card/Token-01-fr.jpg",
+          "image": "https://soulsy28.github.io/MhTCG/Card/Token_01_fr.jpg",
           "isUnique": false,
           "leavesAtEndOfTurn": false
         },
         {
           "name": "Power Phial",
-          "image": "https://soulsy28.github.io/MhTCG/Card/Token-01-en.jpg",
+          "image": "https://soulsy28.github.io/MhTCG/Card/Token_01_en.jpg",
           "isUnique": false,
           "leavesAtEndOfTurn": false
         }
