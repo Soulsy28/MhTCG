@@ -7,7 +7,7 @@
         "name": "Lao-Shan Lung, dragon endormie",
         "type": "Monster",
         "cost": "12",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_001_fr.jpg",
         "isHorizontal": false
       }
     },
@@ -18,8 +18,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "12",
-    "Strength": "2",
-    "Health Point": "12",
+    "Strength": 2,
+    "Health Point": 12,
     "Type": [
       "Large Monster",
       "Lao-Shan Lung",
@@ -34,7 +34,7 @@
         "name": "Lao-Shan Lung, Sleeping Dragon",
         "type": "Monster",
         "cost": "12",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_001_en.jpg",
         "isHorizontal": false
       }
     },
@@ -45,8 +45,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "12",
-    "Strength": "2",
-    "Health Point": "12",
+    "Strength": 2,
+    "Health Point": 12,
     "Type": [
       "Large Monster",
       "Lao-Shan Lung",
@@ -61,7 +61,7 @@
         "name": "Jeune Rathian",
         "type": "Monster",
         "cost": "6",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_002_fr.jpg",
         "isHorizontal": false
       }
     },
@@ -72,8 +72,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "6",
-    "Strength": "2",
-    "Health Point": "4",
+    "Strength": 2,
+    "Health Point": 4,
     "Type": [
       "Large Monster",
       "Rathian",
@@ -88,7 +88,7 @@
         "name": "Young Rathian",
         "type": "Monster",
         "cost": "6",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_002_en.jpg",
         "isHorizontal": false
       }
     },
@@ -99,8 +99,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "6",
-    "Strength": "2",
-    "Health Point": "4",
+    "Strength": 2,
+    "Health Point": 4,
     "Type": [
       "Large Monster",
       "Rathian",
@@ -126,8 +126,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
-    "Strength": "2",
-    "Health Point": "5",
+    "Strength": 2,
+    "Health Point": 5,
     "Type": [
       "Large Monster",
       "Gypceros",
@@ -153,8 +153,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
-    "Strength": "2",
-    "Health Point": "5",
+    "Strength": 2,
+    "Health Point": 5,
     "Type": [
       "Large Monster",
       "Gypceros",
@@ -180,8 +180,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "9",
-    "Strength": "3",
-    "Health Point": "7",
+    "Strength": 3,
+    "Health Point": 7,
     "Type": [
       "Large Monster",
       "Gypceros",
@@ -207,8 +207,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "9",
-    "Strength": "3",
-    "Health Point": "7",
+    "Strength": 3,
+    "Health Point": 7,
     "Type": [
       "Large Monster",
       "Gypceros",
@@ -234,8 +234,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Large Monster",
       "Iodrome",
@@ -261,8 +261,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Large Monster",
       "Iodrome",
@@ -288,8 +288,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "4",
-    "Strength": "0",
-    "Health Point": "3",
+    "Strength": 0,
+    "Health Point": 3,
     "Type": [
       "Small Monster",
       "Poogie"
@@ -314,8 +314,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "4",
-    "Strength": "0",
-    "Health Point": "3",
+    "Strength": 0,
+    "Health Point": 3,
     "Type": [
       "Small Monster",
       "Poogie"
@@ -340,8 +340,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "3",
-    "Strength": "0",
-    "Health Point": "2",
+    "Strength": 0,
+    "Health Point": 2,
     "Type": []
   },
   "MhFG-007-en": {
@@ -363,8 +363,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "3",
-    "Strength": "0",
-    "Health Point": "2",
+    "Strength": 0,
+    "Health Point": 2,
     "Type": []
   },
   "MhFG-008-fr": {
@@ -386,8 +386,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "4",
-    "Strength": "1",
-    "Health Point": "3",
+    "Strength": 1,
+    "Health Point": 3,
     "Type": [
       "Small Monster",
       "Ioprey",
@@ -413,8 +413,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "4",
-    "Strength": "1",
-    "Health Point": "3",
+    "Strength": 1,
+    "Health Point": 3,
     "Type": [
       "Small Monster",
       "Ioprey",
@@ -440,8 +440,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
-    "Strength": "0",
-    "Health Point": "2",
+    "Strength": 0,
+    "Health Point": 2,
     "Type": [
       "Small Monster",
       "Lynians"
@@ -466,8 +466,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
-    "Strength": "0",
-    "Health Point": "2",
+    "Strength": 0,
+    "Health Point": 2,
     "Type": [
       "Small Monster",
       "Lynians"
@@ -492,8 +492,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "5",
-    "Strength": "2",
-    "Health Point": "5",
+    "Strength": 2,
+    "Health Point": 5,
     "Type": [
       "Bow"
     ]
@@ -517,8 +517,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "5",
-    "Strength": "2",
-    "Health Point": "5",
+    "Strength": 2,
+    "Health Point": 5,
     "Type": [
       "Bow"
     ]
@@ -542,8 +542,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "8",
-    "Strength": "3",
-    "Health Point": "6",
+    "Strength": 3,
+    "Health Point": 6,
     "Type": [
       "Sword & Shield"
     ]
@@ -567,8 +567,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "8",
-    "Strength": "3",
-    "Health Point": "6",
+    "Strength": 3,
+    "Health Point": 6,
     "Type": [
       "Sword & Shield"
     ]
@@ -592,8 +592,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "10",
-    "Strength": "3",
-    "Health Point": "6",
+    "Strength": 3,
+    "Health Point": 6,
     "Type": [
       "Long Sword"
     ]
@@ -617,8 +617,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "10",
-    "Strength": "3",
-    "Health Point": "6",
+    "Strength": 3,
+    "Health Point": 6,
     "Type": [
       "Long Sword"
     ]
@@ -642,8 +642,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "3",
-    "Strength": "1",
-    "Health Point": "4",
+    "Strength": 1,
+    "Health Point": 4,
     "Type": []
   },
   "MhFG-013-en": {
@@ -665,8 +665,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "3",
-    "Strength": "1",
-    "Health Point": "4",
+    "Strength": 1,
+    "Health Point": 4,
     "Type": []
   },
   "MhFG-014-fr": {
@@ -688,8 +688,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "6",
-    "Strength": "1",
-    "Health Point": "6",
+    "Strength": 1,
+    "Health Point": 6,
     "Type": [
       "Hunting Horn"
     ]
@@ -713,8 +713,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "6",
-    "Strength": "1",
-    "Health Point": "6",
+    "Strength": 1,
+    "Health Point": 6,
     "Type": [
       "Hunting Horn"
     ]
@@ -1116,8 +1116,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
-    "Strength": "3",
-    "Health Point": "7",
+    "Strength": 3,
+    "Health Point": 7,
     "Type": [
       "Large Monster",
       "Rathian",
@@ -1143,8 +1143,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
-    "Strength": "3",
-    "Health Point": "7",
+    "Strength": 3,
+    "Health Point": 7,
     "Type": [
       "Large Monster",
       "Rathian",
@@ -1170,8 +1170,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "5",
-    "Strength": "1",
-    "Health Point": "5",
+    "Strength": 1,
+    "Health Point": 5,
     "Type": [
       "Large Monster",
       "Velocidrome",
@@ -1197,8 +1197,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "5",
-    "Strength": "1",
-    "Health Point": "5",
+    "Strength": 1,
+    "Health Point": 5,
     "Type": [
       "Large Monster",
       "Velocidrome",
@@ -1224,8 +1224,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "6",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Large Monster",
       "Yian Kut-ku",
@@ -1251,8 +1251,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "6",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Large Monster",
       "Yian Kut-ku",
@@ -1278,8 +1278,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "9",
-    "Strength": "2",
-    "Health Point": "7",
+    "Strength": 2,
+    "Health Point": 7,
     "Type": [
       "Large Monster",
       "Yian Kut-ku",
@@ -1305,8 +1305,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "9",
-    "Strength": "2",
-    "Health Point": "7",
+    "Strength": 2,
+    "Health Point": 7,
     "Type": [
       "Large Monster",
       "Yian Kut-ku",
@@ -1332,8 +1332,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "3",
-    "Strength": "2",
-    "Health Point": "2",
+    "Strength": 2,
+    "Health Point": 2,
     "Type": [
       "Small Monster",
       "Velociprey",
@@ -1359,8 +1359,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "3",
-    "Strength": "2",
-    "Health Point": "2",
+    "Strength": 2,
+    "Health Point": 2,
     "Type": [
       "Small Monster",
       "Velociprey",
@@ -1386,8 +1386,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
-    "Strength": "0",
-    "Health Point": "3",
+    "Strength": 0,
+    "Health Point": 3,
     "Type": []
   },
   "MhFG-029-en": {
@@ -1409,8 +1409,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
-    "Strength": "0",
-    "Health Point": "3",
+    "Strength": 0,
+    "Health Point": 3,
     "Type": []
   },
   "MhFG-030-fr": {
@@ -1432,8 +1432,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "3",
-    "Strength": "1",
-    "Health Point": "4",
+    "Strength": 1,
+    "Health Point": 4,
     "Type": [
       "Small Monster",
       "Fanged Beast"
@@ -1458,8 +1458,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "3",
-    "Strength": "1",
-    "Health Point": "4",
+    "Strength": 1,
+    "Health Point": 4,
     "Type": [
       "Small Monster",
       "Fanged Beast"
@@ -1484,8 +1484,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
-    "Strength": "0",
-    "Health Point": "3",
+    "Strength": 0,
+    "Health Point": 3,
     "Type": []
   },
   "MhFG-031-en": {
@@ -1507,8 +1507,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
-    "Strength": "0",
-    "Health Point": "3",
+    "Strength": 0,
+    "Health Point": 3,
     "Type": []
   },
   "MhFG-032-fr": {
@@ -1530,8 +1530,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
-    "Strength": "0",
-    "Health Point": "2",
+    "Strength": 0,
+    "Health Point": 2,
     "Type": []
   },
   "MhFG-032-en": {
@@ -1553,8 +1553,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
-    "Strength": "0",
-    "Health Point": "2",
+    "Strength": 0,
+    "Health Point": 2,
     "Type": []
   },
   "MhFG-033-fr": {
@@ -1576,8 +1576,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "3",
-    "Strength": "1",
-    "Health Point": "3",
+    "Strength": 1,
+    "Health Point": 3,
     "Type": []
   },
   "MhFG-033-en": {
@@ -1599,8 +1599,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "3",
-    "Strength": "1",
-    "Health Point": "3",
+    "Strength": 1,
+    "Health Point": 3,
     "Type": []
   },
   "MhFG-034-fr": {
@@ -1622,8 +1622,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "8",
-    "Strength": "3",
-    "Health Point": "5",
+    "Strength": 3,
+    "Health Point": 5,
     "Type": [
       "Dual Blades"
     ]
@@ -1647,8 +1647,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "8",
-    "Strength": "3",
-    "Health Point": "5",
+    "Strength": 3,
+    "Health Point": 5,
     "Type": [
       "Dual Blades"
     ]
@@ -1672,8 +1672,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "5",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Lance"
     ]
@@ -1697,8 +1697,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "5",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Lance"
     ]
@@ -1722,8 +1722,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "3",
-    "Strength": "0",
-    "Health Point": "3",
+    "Strength": 0,
+    "Health Point": 3,
     "Type": []
   },
   "MhFG-036-en": {
@@ -1745,8 +1745,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "3",
-    "Strength": "0",
-    "Health Point": "3",
+    "Strength": 0,
+    "Health Point": 3,
     "Type": []
   },
   "MhFG-037-fr": {
@@ -1768,8 +1768,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "7",
-    "Strength": "2",
-    "Health Point": "7",
+    "Strength": 2,
+    "Health Point": 7,
     "Type": [
       "Gunlance"
     ]
@@ -1793,8 +1793,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "7",
-    "Strength": "2",
-    "Health Point": "7",
+    "Strength": 2,
+    "Health Point": 7,
     "Type": [
       "Gunlance"
     ]
@@ -1818,8 +1818,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "4",
-    "Strength": "1",
-    "Health Point": "5",
+    "Strength": 1,
+    "Health Point": 5,
     "Type": [
       "Light Bowgun"
     ]
@@ -1843,8 +1843,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "4",
-    "Strength": "1",
-    "Health Point": "5",
+    "Strength": 1,
+    "Health Point": 5,
     "Type": [
       "Light Bowgun"
     ]
@@ -2204,8 +2204,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
-    "Strength": "2",
-    "Health Point": "7",
+    "Strength": 2,
+    "Health Point": 7,
     "Type": [
       "Large Monster",
       "Monoblos",
@@ -2231,8 +2231,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
-    "Strength": "2",
-    "Health Point": "7",
+    "Strength": 2,
+    "Health Point": 7,
     "Type": [
       "Large Monster",
       "Monoblos",
@@ -2258,8 +2258,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
-    "Strength": "2",
-    "Health Point": "7",
+    "Strength": 2,
+    "Health Point": 7,
     "Type": [
       "Large Monster",
       "Diablos",
@@ -2285,8 +2285,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
-    "Strength": "2",
-    "Health Point": "7",
+    "Strength": 2,
+    "Health Point": 7,
     "Type": [
       "Large Monster",
       "Diablos",
@@ -2312,8 +2312,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "7",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Large Monster",
       "Cephadrome",
@@ -2339,8 +2339,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "7",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Large Monster",
       "Cephadrome",
@@ -2366,8 +2366,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "6",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Large Monster",
       "Gendrome",
@@ -2393,8 +2393,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "6",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Large Monster",
       "Gendrome",
@@ -2420,8 +2420,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "11",
-    "Strength": "2",
-    "Health Point": "7",
+    "Strength": 2,
+    "Health Point": 7,
     "Type": [
       "Large Monster",
       "Diablos",
@@ -2447,8 +2447,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "11",
-    "Strength": "2",
-    "Health Point": "7",
+    "Strength": 2,
+    "Health Point": 7,
     "Type": [
       "Large Monster",
       "Diablos",
@@ -2474,8 +2474,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "4",
-    "Strength": "1",
-    "Health Point": "3",
+    "Strength": 1,
+    "Health Point": 3,
     "Type": [
       "Small Monster",
       "Cephalos",
@@ -2501,8 +2501,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "4",
-    "Strength": "1",
-    "Health Point": "3",
+    "Strength": 1,
+    "Health Point": 3,
     "Type": [
       "Small Monster",
       "Cephalos",
@@ -2528,8 +2528,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
-    "Strength": "0",
-    "Health Point": "3",
+    "Strength": 0,
+    "Health Point": 3,
     "Type": []
   },
   "MhFG-053-en": {
@@ -2551,8 +2551,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
-    "Strength": "0",
-    "Health Point": "3",
+    "Strength": 0,
+    "Health Point": 3,
     "Type": []
   },
   "MhFG-054-fr": {
@@ -2574,8 +2574,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "3",
-    "Strength": "2",
-    "Health Point": "1",
+    "Strength": 2,
+    "Health Point": 1,
     "Type": [
       "Small Monster",
       "Genprey",
@@ -2601,8 +2601,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "3",
-    "Strength": "2",
-    "Health Point": "2",
+    "Strength": 2,
+    "Health Point": 2,
     "Type": [
       "Small Monster",
       "Genprey",
@@ -2628,8 +2628,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "5",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Hammer"
     ]
@@ -2653,8 +2653,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "5",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Hammer"
     ]
@@ -2678,8 +2678,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "4",
-    "Strength": "2",
-    "Health Point": "5",
+    "Strength": 2,
+    "Health Point": 5,
     "Type": [
       "Great Sword"
     ]
@@ -2703,8 +2703,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "4",
-    "Strength": "2",
-    "Health Point": "5",
+    "Strength": 2,
+    "Health Point": 5,
     "Type": [
       "Great Sword"
     ]
@@ -2728,8 +2728,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "6",
-    "Strength": "3",
-    "Health Point": "5",
+    "Strength": 3,
+    "Health Point": 5,
     "Type": [
       "Charge Blade"
     ]
@@ -2753,8 +2753,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "6",
-    "Strength": "3",
-    "Health Point": "5",
+    "Strength": 3,
+    "Health Point": 5,
     "Type": [
       "Charge Blade"
     ]
@@ -2778,8 +2778,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "7",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Switch Axe"
     ]
@@ -2803,8 +2803,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "7",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Switch Axe"
     ]
@@ -2828,8 +2828,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "6",
-    "Strength": "1",
-    "Health Point": "5",
+    "Strength": 1,
+    "Health Point": 5,
     "Type": [
       "Heavy Bowgun"
     ]
@@ -2853,8 +2853,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "6",
-    "Strength": "1",
-    "Health Point": "5",
+    "Strength": 1,
+    "Health Point": 5,
     "Type": [
       "Heavy Bowgun"
     ]
@@ -2878,8 +2878,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "3",
-    "Strength": "1",
-    "Health Point": "4",
+    "Strength": 1,
+    "Health Point": 4,
     "Type": []
   },
   "MhFG-060-en": {
@@ -2901,8 +2901,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "3",
-    "Strength": "1",
-    "Health Point": "4",
+    "Strength": 1,
+    "Health Point": 4,
     "Type": []
   },
   "MhFG-061-fr": {
@@ -3302,8 +3302,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "12",
-    "Strength": "2",
-    "Health Point": "10",
+    "Strength": 2,
+    "Health Point": 10,
     "Type": [
       "Large Monster",
       "Rathalos",
@@ -3329,8 +3329,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "12",
-    "Strength": "2",
-    "Health Point": "10",
+    "Strength": 2,
+    "Health Point": 10,
     "Type": [
       "Large Monster",
       "Rathalos",
@@ -3356,8 +3356,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "9",
-    "Strength": "4",
-    "Health Point": "5",
+    "Strength": 4,
+    "Health Point": 5,
     "Type": [
       "Large Monster",
       "Rathalos",
@@ -3383,8 +3383,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "9",
-    "Strength": "4",
-    "Health Point": "5",
+    "Strength": 4,
+    "Health Point": 5,
     "Type": [
       "Large Monster",
       "Rathalos",
@@ -3410,8 +3410,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "7",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Large Monster",
       "Rathalos",
@@ -3437,8 +3437,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "7",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Large Monster",
       "Rathalos",
@@ -3464,8 +3464,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
-    "Strength": "2",
-    "Health Point": "8",
+    "Strength": 2,
+    "Health Point": 8,
     "Type": [
       "Large Monster",
       "Gravios",
@@ -3491,8 +3491,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
-    "Strength": "2",
-    "Health Point": "8",
+    "Strength": 2,
+    "Health Point": 8,
     "Type": [
       "Large Monster",
       "Gravios",
@@ -3518,8 +3518,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "4",
-    "Strength": "1",
-    "Health Point": "5",
+    "Strength": 1,
+    "Health Point": 5,
     "Type": [
       "Large Monster",
       "Iodrome",
@@ -3545,8 +3545,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "4",
-    "Strength": "1",
-    "Health Point": "5",
+    "Strength": 1,
+    "Health Point": 5,
     "Type": [
       "Large Monster",
       "Iodrome",
@@ -3572,8 +3572,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
-    "Strength": "1",
-    "Health Point": "2",
+    "Strength": 1,
+    "Health Point": 2,
     "Type": [
       "Small Monster",
       "Ioprey",
@@ -3599,8 +3599,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
-    "Strength": "1",
-    "Health Point": "2",
+    "Strength": 1,
+    "Health Point": 2,
     "Type": [
       "Small Monster",
       "Ioprey",
@@ -3626,8 +3626,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "3",
-    "Strength": "1",
-    "Health Point": "2",
+    "Strength": 1,
+    "Health Point": 2,
     "Type": [
       "Small Monster",
       "Ioprey",
@@ -3653,8 +3653,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "3",
-    "Strength": "1",
-    "Health Point": "2",
+    "Strength": 1,
+    "Health Point": 2,
     "Type": [
       "Small Monster",
       "Ioprey",
@@ -3680,8 +3680,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "3",
-    "Strength": "0",
-    "Health Point": "3",
+    "Strength": 0,
+    "Health Point": 3,
     "Type": [
       "Small Monster",
       "Poogie"
@@ -3706,8 +3706,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "3",
-    "Strength": "0",
-    "Health Point": "3",
+    "Strength": 0,
+    "Health Point": 3,
     "Type": [
       "Small Monster",
       "Poogie"
@@ -3732,8 +3732,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
-    "Strength": "0",
-    "Health Point": "2",
+    "Strength": 0,
+    "Health Point": 2,
     "Type": [
       "Small Monster",
       "Lynians"
@@ -3758,8 +3758,8 @@
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
-    "Strength": "0",
-    "Health Point": "2",
+    "Strength": 0,
+    "Health Point": 2,
     "Type": [
       "Small Monster",
       "Lynians"
@@ -3784,8 +3784,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "4",
-    "Strength": "1",
-    "Health Point": "4",
+    "Strength": 1,
+    "Health Point": 4,
     "Type": [
       "Light Bowgun"
     ]
@@ -3809,8 +3809,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "4",
-    "Strength": "1",
-    "Health Point": "4",
+    "Strength": 1,
+    "Health Point": 4,
     "Type": [
       "Light Bowgun"
     ]
@@ -3834,8 +3834,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "6",
-    "Strength": "1",
-    "Health Point": "5",
+    "Strength": 1,
+    "Health Point": 5,
     "Type": [
       "Heavy Bowgun"
     ]
@@ -3859,8 +3859,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "6",
-    "Strength": "1",
-    "Health Point": "5",
+    "Strength": 1,
+    "Health Point": 5,
     "Type": [
       "Heavy Bowgun"
     ]
@@ -3884,8 +3884,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "7",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Gunlance"
     ]
@@ -3909,8 +3909,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "7",
-    "Strength": "2",
-    "Health Point": "6",
+    "Strength": 2,
+    "Health Point": 6,
     "Type": [
       "Gunlance"
     ]
@@ -3934,8 +3934,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "7",
-    "Strength": "2",
-    "Health Point": "5",
+    "Strength": 2,
+    "Health Point": 5,
     "Type": [
       "Switch Axe"
     ]
@@ -3959,8 +3959,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "7",
-    "Strength": "2",
-    "Health Point": "5",
+    "Strength": 2,
+    "Health Point": 5,
     "Type": [
       "Switch Axe"
     ]
@@ -3984,8 +3984,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "4",
-    "Strength": "1",
-    "Health Point": "4",
+    "Strength": 1,
+    "Health Point": 4,
     "Type": []
   },
   "MhFG-083-en": {
@@ -4007,8 +4007,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "4",
-    "Strength": "1",
-    "Health Point": "4",
+    "Strength": 1,
+    "Health Point": 4,
     "Type": []
   },
   "MhFG-084-fr": {
@@ -4030,8 +4030,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "11",
-    "Strength": "3",
-    "Health Point": "8",
+    "Strength": 3,
+    "Health Point": 8,
     "Type": [
       "Charge Blade"
     ]
@@ -4055,8 +4055,8 @@
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "11",
-    "Strength": "3",
-    "Health Point": "8",
+    "Strength": 3,
+    "Health Point": 8,
     "Type": [
       "Charge Blade"
     ]
