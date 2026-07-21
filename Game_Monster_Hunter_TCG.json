@@ -47,9 +47,9 @@
               "shuffle"    
            ],
           "selectionRange": {
-            "min": 0,
-            "max": 10
-          },
+            "min": 10,
+            "max": 20,
+          }
         }
       },
       "newTurn": {
