@@ -4,7 +4,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Lao-Shan Lung, dragon endormie",
+        "name": "Lao-Shan Lung, Sleeping Dragon",
         "type": "Monster",
         "cost": "12",
         "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_001_fr.jpg",
@@ -14,7 +14,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Lao-Shan Lung, dragon endormie",
+    "name": "Lao-Shan Lung, Sleeping Dragon",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "12",
@@ -58,7 +58,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Jeune Rathian",
+        "name": "Young Rathian",
         "type": "Monster",
         "cost": "6",
         "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_002_fr.jpg",
@@ -68,7 +68,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Jeune Rathian",
+    "name": "Young Rathian",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "6",
@@ -112,7 +112,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Gypceros, L'éblouissant",
+        "name": "Gypceros, the Dazzler",
         "type": "Monster",
         "cost": "8",
         "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_003_fr.jpg",
@@ -122,7 +122,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Gypceros, L'éblouissant",
+    "name": "Gypceros, the Dazzler",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
@@ -166,7 +166,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Gypceros améthyste, simulacre de mort",
+        "name": "Purple Gypceros, Feigning Death",
         "type": "Monster",
         "cost": "9",
         "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_004_fr.jpg",
@@ -176,7 +176,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Gypceros améthyste, simulacre de mort",
+    "name": "Purple Gypceros, Feigning Death",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "9",
@@ -220,7 +220,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Iodrome, Chef de Ioprey",
+        "name": "Iodrome, Ioprey Chief",
         "type": "Monster",
         "cost": "8",
         "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_005_fr.jpg",
@@ -230,7 +230,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Iodrome, Chef de Ioprey",
+    "name": "Iodrome, Ioprey Chief",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
@@ -274,7 +274,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Poogie Cultivateur",
+        "name": "Farmer Poogie",
         "type": "Monster",
         "cost": "4",
         "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_006_fr.jpg",
@@ -284,7 +284,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Poogie Cultivateur",
+    "name": "Farmer Poogie",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "4",
@@ -372,7 +372,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ioprey, Protecteur du chef",
+        "name": "Ioprey, Chief's Protector",
         "type": "Monster",
         "cost": "4",
         "image": "",
@@ -382,7 +382,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Ioprey, Protecteur du chef",
+    "name": "Ioprey, Chief's Protector",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "4",
@@ -426,7 +426,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Felyne Infirmier",
+        "name": "Healer Felyne",
         "type": "Monster",
         "cost": "2",
         "image": "",
@@ -436,7 +436,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Felyne Infirmier",
+    "name": "Healer Felyne",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
@@ -478,7 +478,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Vivian, Le gourmand",
+        "name": "Vivian, the Glutton",
         "type": "Hunter",
         "cost": "5",
         "image": "",
@@ -488,7 +488,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Vivian, Le gourmand",
+    "name": "Vivian, the Glutton",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "5",
@@ -528,7 +528,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Zero, adorateur de miel",
+        "name": "Zero, Honey Devotee",
         "type": "Hunter",
         "cost": "8",
         "image": "",
@@ -538,7 +538,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Zero, adorateur de miel",
+    "name": "Zero, Honey Devotee",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "8",
@@ -578,7 +578,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Zora, apaisé par la forêt",
+        "name": "Zora, Forest-Calmed",
         "type": "Hunter",
         "cost": "10",
         "image": "",
@@ -588,7 +588,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Zora, apaisé par la forêt",
+    "name": "Zora, Forest-Calmed",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "10",
@@ -628,7 +628,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ellie, aiguiseuse d'arme",
+        "name": "Ellie, Weapon Sharpener",
         "type": "Hunter",
         "cost": "3",
         "image": "",
@@ -638,7 +638,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Ellie, aiguiseuse d'arme",
+    "name": "Ellie, Weapon Sharpener",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "3",
@@ -674,7 +674,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Barde du chêne",
+        "name": "Oak Bard",
         "type": "Hunter",
         "cost": "6",
         "image": "",
@@ -684,7 +684,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Barde du chêne",
+    "name": "Oak Bard",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "6",
@@ -766,7 +766,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Flute de santé",
+        "name": "Health Flute",
         "type": "Item",
         "cost": "3",
         "image": "",
@@ -776,7 +776,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Flute de santé",
+    "name": "Health Flute",
     "Set": "MhFG",
     "type": "Item",
     "cost": "3",
@@ -808,7 +808,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Poudre de vie",
+        "name": "Life Powder",
         "type": "Item",
         "cost": "3",
         "image": "",
@@ -818,7 +818,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Poudre de vie",
+    "name": "Life Powder",
     "Set": "MhFG",
     "type": "Item",
     "cost": "3",
@@ -850,7 +850,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Steak à point",
+        "name": "Well-Done Steak",
         "type": "Item",
         "cost": "4",
         "image": "",
@@ -860,7 +860,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Steak à point",
+    "name": "Well-Done Steak",
     "Set": "MhFG",
     "type": "Item",
     "cost": "4",
@@ -892,7 +892,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Bond en avant",
+        "name": "Leap Forward",
         "type": "Technique",
         "cost": "2",
         "image": "",
@@ -902,7 +902,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Bond en avant",
+    "name": "Leap Forward",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "2",
@@ -934,7 +934,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cuisine Felyne",
+        "name": "Felyne Cuisine",
         "type": "Technique",
         "cost": "3",
         "image": "",
@@ -944,7 +944,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Cuisine Felyne",
+    "name": "Felyne Cuisine",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "3",
@@ -976,7 +976,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Etude de terrain",
+        "name": "Field Study",
         "type": "Technique",
         "cost": "4",
         "image": "",
@@ -986,7 +986,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Etude de terrain",
+    "name": "Field Study",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "4",
@@ -1018,7 +1018,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pousse aléatoire",
+        "name": "Random Growth",
         "type": "Technique",
         "cost": "1",
         "image": "",
@@ -1028,7 +1028,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Pousse aléatoire",
+    "name": "Random Growth",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "1",
@@ -1060,7 +1060,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rythme de la forêt",
+        "name": "Rhythm of the Forest",
         "type": "Technique",
         "cost": "3",
         "image": "",
@@ -1070,7 +1070,7 @@
     "Color": [
       "Green"
     ],
-    "name": "Rythme de la forêt",
+    "name": "Rhythm of the Forest",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "3",
@@ -1102,7 +1102,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rathian, dominante des plaines",
+        "name": "Rathian, Plains Dominator",
         "type": "Monster",
         "cost": "8",
         "image": "",
@@ -1112,7 +1112,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Rathian, dominante des plaines",
+    "name": "Rathian, Plains Dominator",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
@@ -1156,7 +1156,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Velocidrome, chef des faibles",
+        "name": "Velocidrome, Chief of the Weak",
         "type": "Monster",
         "cost": "5",
         "image": "",
@@ -1166,7 +1166,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Velocidrome, chef des faibles",
+    "name": "Velocidrome, Chief of the Weak",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "5",
@@ -1210,7 +1210,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Yian Kut-ku, espiègle et profiteuse",
+        "name": "Yian Kut-Ku, Mischievous Opportunist",
         "type": "Monster",
         "cost": "6",
         "image": "",
@@ -1220,7 +1220,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Yian Kut-ku, espiègle et profiteuse",
+    "name": "Yian Kut-Ku, Mischievous Opportunist",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "6",
@@ -1264,7 +1264,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Yian Kut-ku Bleu, Poulet frénétique",
+        "name": "Blue Yian Kut-Ku, Frenzied Chicken",
         "type": "Monster",
         "cost": "9",
         "image": "",
@@ -1274,7 +1274,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Yian Kut-ku Bleu, Poulet frénétique",
+    "name": "Blue Yian Kut-Ku, Frenzied Chicken",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "9",
@@ -1318,7 +1318,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Velociprey, chercheur de viande",
+        "name": "Velociprey, Meat Seeker",
         "type": "Monster",
         "cost": "3",
         "image": "",
@@ -1328,7 +1328,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Velociprey, chercheur de viande",
+    "name": "Velociprey, Meat Seeker",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "3",
@@ -1516,7 +1516,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Bébé Aptonoth",
+        "name": "Baby Aptonoth",
         "type": "Monster",
         "cost": "2",
         "image": "",
@@ -1526,7 +1526,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Bébé Aptonoth",
+    "name": "Baby Aptonoth",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
@@ -1562,7 +1562,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dépeceur de peau",
+        "name": "Skinner",
         "type": "Hunter",
         "cost": "3",
         "image": "",
@@ -1572,7 +1572,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Dépeceur de peau",
+    "name": "Skinner",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "3",
@@ -1608,7 +1608,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Moon, vagabond des plaines",
+        "name": "Moon, Plains Wanderer",
         "type": "Hunter",
         "cost": "8",
         "image": "",
@@ -1618,7 +1618,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Moon, vagabond des plaines",
+    "name": "Moon, Plains Wanderer",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "8",
@@ -1658,7 +1658,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Vash, lancier téméraire",
+        "name": "Vash, Reckless Lancer",
         "type": "Hunter",
         "cost": "5",
         "image": "",
@@ -1668,7 +1668,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Vash, lancier téméraire",
+    "name": "Vash, Reckless Lancer",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "5",
@@ -1708,7 +1708,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Titus, adjoint lancier",
+        "name": "Titus, Lancer's Assistant",
         "type": "Hunter",
         "cost": "3",
         "image": "",
@@ -1718,7 +1718,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Titus, adjoint lancier",
+    "name": "Titus, Lancer's Assistant",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "3",
@@ -1754,7 +1754,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Vivien, Le trouveur de faiblesse",
+        "name": "Vivien, Weakness Finder",
         "type": "Hunter",
         "cost": "7",
         "image": "",
@@ -1764,7 +1764,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Vivien, Le trouveur de faiblesse",
+    "name": "Vivien, Weakness Finder",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "7",
@@ -1804,7 +1804,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Gartin, petit tireur",
+        "name": "Gartin, Little Gunner",
         "type": "Hunter",
         "cost": "4",
         "image": "",
@@ -1814,7 +1814,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Gartin, petit tireur",
+    "name": "Gartin, Little Gunner",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "4",
@@ -1854,7 +1854,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Catalyseur",
+        "name": "Catalyst",
         "type": "Item",
         "cost": "5",
         "image": "",
@@ -1864,7 +1864,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Catalyseur",
+    "name": "Catalyst",
     "Set": "MhFG",
     "type": "Item",
     "cost": "5",
@@ -1896,7 +1896,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Immunisateur",
+        "name": "Immunizer",
         "type": "Item",
         "cost": "3",
         "image": "",
@@ -1906,7 +1906,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Immunisateur",
+    "name": "Immunizer",
     "Set": "MhFG",
     "type": "Item",
     "cost": "3",
@@ -1938,7 +1938,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tambour de tribu",
+        "name": "Tribal Drum",
         "type": "Item",
         "cost": "3",
         "image": "",
@@ -1948,7 +1948,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Tambour de tribu",
+    "name": "Tribal Drum",
     "Set": "MhFG",
     "type": "Item",
     "cost": "3",
@@ -1980,7 +1980,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Volonté des faibles",
+        "name": "Will of the Weak",
         "type": "Technique",
         "cost": "2",
         "image": "",
@@ -1990,7 +1990,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Volonté des faibles",
+    "name": "Will of the Weak",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "2",
@@ -2022,7 +2022,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cycle de la vie",
+        "name": "Cycle of Life",
         "type": "Technique",
         "cost": "4",
         "image": "",
@@ -2032,7 +2032,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Cycle de la vie",
+    "name": "Cycle of Life",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "4",
@@ -2064,7 +2064,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "La meute arrive !",
+        "name": "The Pack Arrives!",
         "type": "Technique",
         "cost": "5",
         "image": "",
@@ -2074,7 +2074,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "La meute arrive !",
+    "name": "The Pack Arrives!",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "5",
@@ -2106,7 +2106,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Blocage parfait",
+        "name": "Perfect Block",
         "type": "Technique",
         "cost": "2",
         "image": "",
@@ -2116,7 +2116,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Blocage parfait",
+    "name": "Perfect Block",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "2",
@@ -2148,7 +2148,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Partage des restes",
+        "name": "Sharing the Leftovers",
         "type": "Technique",
         "cost": "3",
         "image": "",
@@ -2158,7 +2158,7 @@
     "Color": [
       "Yellow"
     ],
-    "name": "Partage des restes",
+    "name": "Sharing the Leftovers",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "3",
@@ -2190,7 +2190,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Monoblos, prédateur des chasseurs",
+        "name": "Monoblos, Hunter Predator",
         "type": "Monster",
         "cost": "8",
         "image": "",
@@ -2200,7 +2200,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Monoblos, prédateur des chasseurs",
+    "name": "Monoblos, Hunter Predator",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
@@ -2244,7 +2244,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Diablos,celui qui insuffle la peur",
+        "name": "Diablos, the Fearbringer",
         "type": "Monster",
         "cost": "8",
         "image": "",
@@ -2254,7 +2254,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Diablos,celui qui insuffle la peur",
+    "name": "Diablos, the Fearbringer",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
@@ -2298,7 +2298,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cephadrome, le lâche",
+        "name": "Cephadrome, the Coward",
         "type": "Monster",
         "cost": "7",
         "image": "",
@@ -2308,7 +2308,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Cephadrome, le lâche",
+    "name": "Cephadrome, the Coward",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "7",
@@ -2352,7 +2352,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Gendrome, mobilise les faibles",
+        "name": "Gendrome, Rallying the Weak",
         "type": "Monster",
         "cost": "6",
         "image": "",
@@ -2362,7 +2362,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Gendrome, mobilise les faibles",
+    "name": "Gendrome, Rallying the Weak",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "6",
@@ -2406,7 +2406,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Vieux Diablos",
+        "name": "Old Diablos",
         "type": "Monster",
         "cost": "11",
         "image": "",
@@ -2416,7 +2416,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Vieux Diablos",
+    "name": "Old Diablos",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "11",
@@ -2614,7 +2614,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Gerard Marteau",
+        "name": "Gerard Hammer",
         "type": "Hunter",
         "cost": "5",
         "image": "",
@@ -2624,7 +2624,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Gerard Marteau",
+    "name": "Gerard Hammer",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "5",
@@ -2664,7 +2664,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Orik, le patient",
+        "name": "Orik, the Patient",
         "type": "Hunter",
         "cost": "4",
         "image": "",
@@ -2674,7 +2674,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Orik, le patient",
+    "name": "Orik, the Patient",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "4",
@@ -2714,7 +2714,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sélène, experte des fioles",
+        "name": "Selene, Phial Expert",
         "type": "Hunter",
         "cost": "6",
         "image": "",
@@ -2724,7 +2724,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Sélène, experte des fioles",
+    "name": "Selene, Phial Expert",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "6",
@@ -2764,7 +2764,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tuer ou épargner",
+        "name": "Kill or Spare",
         "type": "Hunter",
         "cost": "7",
         "image": "",
@@ -2774,7 +2774,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Tuer ou épargner",
+    "name": "Kill or Spare",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "7",
@@ -2814,7 +2814,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Duplicateur de nullos",
+        "name": "Nullifier Duplicator",
         "type": "Hunter",
         "cost": "6",
         "image": "",
@@ -2824,7 +2824,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Duplicateur de nullos",
+    "name": "Nullifier Duplicator",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "6",
@@ -2864,7 +2864,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Chasseur défausse",
+        "name": "Discard Hunter",
         "type": "Hunter",
         "cost": "3",
         "image": "",
@@ -2874,7 +2874,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Chasseur défausse",
+    "name": "Discard Hunter",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "3",
@@ -2910,7 +2910,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Potion fraiche",
+        "name": "Fresh Potion",
         "type": "Item",
         "cost": "2",
         "image": "",
@@ -2920,7 +2920,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Potion fraiche",
+    "name": "Fresh Potion",
     "Set": "MhFG",
     "type": "Item",
     "cost": "2",
@@ -2952,7 +2952,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Filet",
+        "name": "Net",
         "type": "Item",
         "cost": "2",
         "image": "",
@@ -2962,7 +2962,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Filet",
+    "name": "Net",
     "Set": "MhFG",
     "type": "Item",
     "cost": "2",
@@ -2994,7 +2994,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Viande paralysante",
+        "name": "Paralysis Meat",
         "type": "Item",
         "cost": "2",
         "image": "",
@@ -3004,7 +3004,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Viande paralysante",
+    "name": "Paralysis Meat",
     "Set": "MhFG",
     "type": "Item",
     "cost": "2",
@@ -3036,7 +3036,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pierre à aiguiser lourde",
+        "name": "Heavy Whetstone",
         "type": "Item",
         "cost": "3",
         "image": "",
@@ -3046,7 +3046,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Pierre à aiguiser lourde",
+    "name": "Heavy Whetstone",
     "Set": "MhFG",
     "type": "Item",
     "cost": "3",
@@ -3078,7 +3078,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Bonk !",
+        "name": "Bonk!",
         "type": "Technique",
         "cost": "2",
         "image": "",
@@ -3088,7 +3088,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Bonk !",
+    "name": "Bonk!",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "2",
@@ -3120,7 +3120,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tempête de sable",
+        "name": "Sandstorm",
         "type": "Technique",
         "cost": "5",
         "image": "",
@@ -3130,7 +3130,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Tempête de sable",
+    "name": "Sandstorm",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "5",
@@ -3162,7 +3162,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Charge dans les dunes",
+        "name": "Dune Charge",
         "type": "Technique",
         "cost": "2",
         "image": "",
@@ -3172,7 +3172,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Charge dans les dunes",
+    "name": "Dune Charge",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "2",
@@ -3204,7 +3204,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Esprit du désert",
+        "name": "Spirit of the Desert",
         "type": "Technique",
         "cost": "3",
         "image": "",
@@ -3214,7 +3214,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Esprit du désert",
+    "name": "Spirit of the Desert",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "3",
@@ -3246,7 +3246,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Usé par le sable",
+        "name": "Worn by Sand",
         "type": "Technique",
         "cost": "2",
         "image": "",
@@ -3256,7 +3256,7 @@
     "Color": [
       "Orange"
     ],
-    "name": "Usé par le sable",
+    "name": "Worn by Sand",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "2",
@@ -3288,7 +3288,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ancien Rathalos.",
+        "name": "Elder Rathalos",
         "type": "Monster",
         "cost": "12",
         "image": "",
@@ -3298,7 +3298,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Ancien Rathalos.",
+    "name": "Elder Rathalos",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "12",
@@ -3342,7 +3342,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rathalos, l’emblème des flammes",
+        "name": "Rathalos, Emblem of Flames",
         "type": "Monster",
         "cost": "9",
         "image": "",
@@ -3352,7 +3352,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Rathalos, l’emblème des flammes",
+    "name": "Rathalos, Emblem of Flames",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "9",
@@ -3396,7 +3396,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rathalos Azur, terreur vivante.",
+        "name": "Azure Rathalos, Living Terror",
         "type": "Monster",
         "cost": "7",
         "image": "",
@@ -3406,7 +3406,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Rathalos Azur, terreur vivante.",
+    "name": "Azure Rathalos, Living Terror",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "7",
@@ -3450,7 +3450,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Gravios, Volcan mobile.",
+        "name": "Gravios, Walking Volcano",
         "type": "Monster",
         "cost": "8",
         "image": "",
@@ -3460,7 +3460,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Gravios, Volcan mobile.",
+    "name": "Gravios, Walking Volcano",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "8",
@@ -3504,7 +3504,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Iodrome, manipulateur d’inimité",
+        "name": "Iodrome, Enmity Manipulator",
         "type": "Monster",
         "cost": "4",
         "image": "",
@@ -3514,7 +3514,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Iodrome, manipulateur d’inimité",
+    "name": "Iodrome, Enmity Manipulator",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "4",
@@ -3558,7 +3558,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ioprey, Croc poison",
+        "name": "Ioprey, Poison Fang",
         "type": "Monster",
         "cost": "2",
         "image": "",
@@ -3568,7 +3568,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Ioprey, Croc poison",
+    "name": "Ioprey, Poison Fang",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
@@ -3612,7 +3612,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ioprey, adapté au volcan",
+        "name": "Ioprey, Volcano-Adapted",
         "type": "Monster",
         "cost": "3",
         "image": "",
@@ -3622,7 +3622,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Ioprey, adapté au volcan",
+    "name": "Ioprey, Volcano-Adapted",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "3",
@@ -3666,7 +3666,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Poogie Sauna",
+        "name": "Sauna Poogie",
         "type": "Monster",
         "cost": "3",
         "image": "",
@@ -3676,7 +3676,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Poogie Sauna",
+    "name": "Sauna Poogie",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "3",
@@ -3718,7 +3718,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Felyne artificier",
+        "name": "Felyne Demolitionist",
         "type": "Monster",
         "cost": "2",
         "image": "",
@@ -3728,7 +3728,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Felyne artificier",
+    "name": "Felyne Demolitionist",
     "Set": "MhFG",
     "type": "Monster",
     "cost": "2",
@@ -3770,7 +3770,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Corvin, artilleur léger",
+        "name": "Corvin, Light Gunner",
         "type": "Hunter",
         "cost": "4",
         "image": "",
@@ -3780,7 +3780,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Corvin, artilleur léger",
+    "name": "Corvin, Light Gunner",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "4",
@@ -3820,7 +3820,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Bran, l’éclaireur",
+        "name": "Bran, the Scout",
         "type": "Hunter",
         "cost": "6",
         "image": "",
@@ -3830,7 +3830,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Bran, l’éclaireur",
+    "name": "Bran, the Scout",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "6",
@@ -3870,7 +3870,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rohan, pyro-lancier",
+        "name": "Rohan, Pyro-Lancer",
         "type": "Hunter",
         "cost": "7",
         "image": "",
@@ -3880,7 +3880,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Rohan, pyro-lancier",
+    "name": "Rohan, Pyro-Lancer",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "7",
@@ -3920,7 +3920,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Iska, Bucheron des monstres",
+        "name": "Iska, Monster Lumberjack",
         "type": "Hunter",
         "cost": "7",
         "image": "",
@@ -3930,7 +3930,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Iska, Bucheron des monstres",
+    "name": "Iska, Monster Lumberjack",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "7",
@@ -3970,7 +3970,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Technicien en Morpho-hache",
+        "name": "Switch Axe Technician",
         "type": "Hunter",
         "cost": "4",
         "image": "",
@@ -3980,7 +3980,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Technicien en Morpho-hache",
+    "name": "Switch Axe Technician",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "4",
@@ -4016,7 +4016,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Riven, fury tranchante",
+        "name": "Riven, Cutting Fury",
         "type": "Hunter",
         "cost": "11",
         "image": "",
@@ -4026,7 +4026,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Riven, fury tranchante",
+    "name": "Riven, Cutting Fury",
     "Set": "MhFG",
     "type": "Hunter",
     "cost": "11",
@@ -4066,7 +4066,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Grande bombe baril",
+        "name": "Large Barrel Bomb",
         "type": "Item",
         "cost": "4",
         "image": "",
@@ -4076,7 +4076,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Grande bombe baril",
+    "name": "Large Barrel Bomb",
     "Set": "MhFG",
     "type": "Item",
     "cost": "4",
@@ -4108,7 +4108,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Petite bombe baril",
+        "name": "Small Barrel Bomb",
         "type": "Item",
         "cost": "2",
         "image": "",
@@ -4118,7 +4118,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Petite bombe baril",
+    "name": "Small Barrel Bomb",
     "Set": "MhFG",
     "type": "Item",
     "cost": "2",
@@ -4150,7 +4150,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Minerai de Machalite",
+        "name": "Machalite Ore",
         "type": "Item",
         "cost": "2",
         "image": "",
@@ -4160,7 +4160,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Minerai de Machalite",
+    "name": "Machalite Ore",
     "Set": "MhFG",
     "type": "Item",
     "cost": "2",
@@ -4196,7 +4196,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Minerai de Dragonite",
+        "name": "Dragonite Ore",
         "type": "Item",
         "cost": "2",
         "image": "",
@@ -4206,7 +4206,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Minerai de Dragonite",
+    "name": "Dragonite Ore",
     "Set": "MhFG",
     "type": "Item",
     "cost": "2",
@@ -4242,7 +4242,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tir de barrage",
+        "name": "Barrage Shot",
         "type": "Technique",
         "cost": "2",
         "image": "",
@@ -4252,7 +4252,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Tir de barrage",
+    "name": "Barrage Shot",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "2",
@@ -4284,7 +4284,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Explosion controlée",
+        "name": "Controlled Explosion",
         "type": "Technique",
         "cost": "3",
         "image": "",
@@ -4294,7 +4294,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Explosion controlée",
+    "name": "Controlled Explosion",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "3",
@@ -4326,7 +4326,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rage volcanique",
+        "name": "Volcanic Rage",
         "type": "Technique",
         "cost": "2",
         "image": "",
@@ -4336,7 +4336,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Rage volcanique",
+    "name": "Volcanic Rage",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "2",
@@ -4368,7 +4368,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dernière braise",
+        "name": "Last Ember",
         "type": "Technique",
         "cost": "3",
         "image": "",
@@ -4378,7 +4378,7 @@
     "Color": [
       "Red"
     ],
-    "name": "Dernière braise",
+    "name": "Last Ember",
     "Set": "MhFG",
     "type": "Technique",
     "cost": "3",
@@ -4406,4 +4406,3 @@
     "Type": []
   }
 }
-
