@@ -73,7 +73,7 @@
     "type": "Monster",
     "cost": "6",
     "Strength": 2,
-    "Health Point": 4,
+    "Health Point": 5,
     "Type": [
       "Large Monster",
       "Rathian",
@@ -100,7 +100,7 @@
     "type": "Monster",
     "cost": "6",
     "Strength": 2,
-    "Health Point": 4,
+    "Health Point": 5,
     "Type": [
       "Large Monster",
       "Rathian",
