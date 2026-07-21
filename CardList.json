@@ -429,7 +429,7 @@
         "name": "Healer Felyne",
         "type": "Monster",
         "cost": "2",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_009_fr.jpg",
         "isHorizontal": false
       }
     },
@@ -455,7 +455,7 @@
         "name": "Healer Felyne",
         "type": "Monster",
         "cost": "2",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_009_en.jpg",
         "isHorizontal": false
       }
     },
@@ -481,7 +481,7 @@
         "name": "Vivian, the Glutton",
         "type": "Hunter",
         "cost": "5",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_010_fr.jpg",
         "isHorizontal": false
       }
     },
@@ -506,7 +506,7 @@
         "name": "Vivian, the Glutton",
         "type": "Hunter",
         "cost": "5",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_010_en.jpg",
         "isHorizontal": false
       }
     },
@@ -531,7 +531,7 @@
         "name": "Zero, Honey Devotee",
         "type": "Hunter",
         "cost": "8",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_011_fr.jpg",
         "isHorizontal": false
       }
     },
@@ -556,7 +556,7 @@
         "name": "Zero, Honey Devotee",
         "type": "Hunter",
         "cost": "8",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_011_en.jpg",
         "isHorizontal": false
       }
     },
