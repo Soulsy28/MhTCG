@@ -677,7 +677,7 @@
         "name": "Oak Bard",
         "type": "Hunter",
         "cost": "6",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_014_fr.jpg",
         "isHorizontal": false
       }
     },
@@ -702,7 +702,7 @@
         "name": "Oak Bard",
         "type": "Hunter",
         "cost": "6",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_014_en.jpg",
         "isHorizontal": false
       }
     },
