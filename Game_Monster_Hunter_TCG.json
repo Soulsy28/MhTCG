@@ -3,7 +3,7 @@
   "menuBackgroundImage": "https://soulsy28.github.io/MhTCG/Background/Banniere_MhTCG.jpg",
   "defaultRessources": {
     "backgrounds": [
-      "Background/Background/Mizutsune_BG.webp"
+      "https://soulsy28.github.io/MhTCG/Background/Mizutsune_BG.webp"
     ],
     "decksUrl": ""
   },
