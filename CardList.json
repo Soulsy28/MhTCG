@@ -115,7 +115,7 @@
         "name": "Gypceros, L'éblouissant",
         "type": "Monster",
         "cost": "8",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_003_fr.jpg",
         "isHorizontal": false
       }
     },
@@ -142,7 +142,7 @@
         "name": "Gypceros, the Dazzler",
         "type": "Monster",
         "cost": "8",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_003_en.jpg",
         "isHorizontal": false
       }
     },
@@ -169,7 +169,7 @@
         "name": "Gypceros améthyste, simulacre de mort",
         "type": "Monster",
         "cost": "9",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_004_fr.jpg",
         "isHorizontal": false
       }
     },
@@ -196,7 +196,7 @@
         "name": "Purple Gypceros, Feigning Death",
         "type": "Monster",
         "cost": "9",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_004_en.jpg",
         "isHorizontal": false
       }
     },
@@ -223,7 +223,7 @@
         "name": "Iodrome, Chef de Ioprey",
         "type": "Monster",
         "cost": "8",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_005_fr.jpg",
         "isHorizontal": false
       }
     },
@@ -250,7 +250,7 @@
         "name": "Iodrome, Ioprey Chief",
         "type": "Monster",
         "cost": "8",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_005_en.jpg",
         "isHorizontal": false
       }
     },
@@ -277,7 +277,7 @@
         "name": "Poogie Cultivateur",
         "type": "Monster",
         "cost": "4",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_006_fr.jpg",
         "isHorizontal": false
       }
     },
@@ -303,7 +303,7 @@
         "name": "Farmer Poogie",
         "type": "Monster",
         "cost": "4",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_006_en.jpg",
         "isHorizontal": false
       }
     },
@@ -329,7 +329,7 @@
         "name": "Mosswine",
         "type": "Monster",
         "cost": "3",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_007_fr.jpg",
         "isHorizontal": false
       }
     },
@@ -352,7 +352,7 @@
         "name": "Mosswine",
         "type": "Monster",
         "cost": "3",
-        "image": "",
+        "image": "https://soulsy28.github.io/MhTCG/Card/MhFG_007_en.jpg",
         "isHorizontal": false
       }
     },
