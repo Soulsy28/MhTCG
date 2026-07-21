@@ -8,7 +8,7 @@
     "decksUrl": ""
   },
   "customHelp": "",
-  "cardRotation": 90,
+  "cardRotation": "90",
   "cards": {
     "dataUrl": "https://soulsy28.github.io/MhTCG/CardList.json",
     "cardBack": "https://soulsy28.github.io/MhTCG/Card/CardBackImage.png"
@@ -31,11 +31,22 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "return your entire hand to the bottom of your deck and draw five new cards, which will become your new starting hand. Then, shuffle your deck. It can be done only once.",
+        "info": "Return your entire hand to the bottom of your deck and draw five new cards, which will become your new starting hand. Then, shuffle your deck. It can be done only once.",
+        "triggeredByButton": true,
         "startingHandSize": "5",
-        "drawNewHand": true,
-        "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false
+        "mulliganCount": {
+          "min": 1,
+          "max": 1
+        },
+        "mulliganCycle": {
+          "info": "Return your entire hand to the bottom of your deck and draw five new cards, which will become your new starting hand. Then, shuffle your deck. It can be done only once.",
+          "steps": 
+            [
+              "toBottom",    
+              "draw",       
+              "shuffle"    
+           ] 
+        }
       },
       "newTurn": {
         "drawOnStart": true,
