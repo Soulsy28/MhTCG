@@ -40,10 +40,10 @@
       "newTurn": {
         "drawOnStart": true,
         "sharedTurn": false,
-        "firstPlayerTokenName": "",
+        "firstPlayerTokenName": "Go first",
         "drawPerTurn": 1
       },
-      "defaultNotes": "",
+      "defaultNotes": "GG",
       "tokens": [
         {
           "name": "Fiole de puissance",
@@ -59,7 +59,7 @@
         }
       ],
       "countersStartingValues": [
-        0
+        "1"
       ],
       "hideFacedDownCards": false,
       "sections": {
