@@ -8,7 +8,7 @@
     "decksUrl": ""
   },
   "customHelp": "",
-  "cardRotation": 45,
+  "cardRotation": 90,
   "cards": {
     "dataUrl": "https://soulsy28.github.io/MhTCG/CardList.json",
     "cardBack": "https://soulsy28.github.io/MhTCG/Card/CardBackImage.png"
