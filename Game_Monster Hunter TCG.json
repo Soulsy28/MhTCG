@@ -14,58 +14,157 @@
     "cardBack": "https://soulsy28.github.io/MhTCG/Card/CardBackImage.png"
   },
   "deckBuilding": {
-    "mainFilters": [],
+    "mainFilters": [
+      "Type",
+      "Cost",
+      "Strenght",
+      "HP"
+    ],
     "formats": []
   },
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "",
-        "startingHandSize": 7,
+        "info": "return your entire hand to the bottom of your deck and draw five new cards, which will become your new starting hand. Then, shuffle your deck. It can be done only once.",
+        "startingHandSize": "5",
         "drawNewHand": true,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
       "newTurn": {
-        "drawOnStart": false,
+        "drawOnStart": true,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
       },
       "defaultNotes": "",
-      "tokens": [],
+      "tokens": [
+        {
+          "name": "Fiole de puissance",
+          "image": "https://soulsy28.github.io/MhTCG/Card/Token-01-fr.jpg",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Power Phial",
+          "image": "https://soulsy28.github.io/MhTCG/Card/Token-01-en.jpg",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        }
+      ],
       "countersStartingValues": [
         0
       ],
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Mana"
+          "Ration deck",
+          "Ration zone",
+          "Hunting Ground",
+          "Camp"
         ],
         "layout": {
-          "direction": "row",
+          "direction": "column",
           "isSymetricalForOpponents": false,
-          "content": []
+          "content": [
+            {
+              "section": "Hunting Ground",
+              "style": false
+            },
+            {
+              "section": "Camp",
+              "style": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Ration deck",
+                  "style": false
+                },
+                {
+                  "section": "Ration zone",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
         },
         "categoriesAlreadyOnBoard": [],
-        "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
+        "autoPlayFromHand": {
+          "Monster": "Hunting ground",
+          "Hunter": "Camp"
+        },
+        "autoPlayFromStack": {
+          "Technique": "Defausse",
+          "Item": "Defausse"
+        },
         "sectionsDict": {
-          "Mana": {
-            "title": "Mana",
+          "Ration deck": {
+            "title": "Ration_deck",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "START",
-            "opponentAlignment": false,
+            "opponentAlignment": "false",
             "noAutoPayTo": "true",
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Ressources",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": false
+          },
+          "Hunting Ground": {
+            "title": "Hunting_Ground",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Camp": {
+            "title": "Camp",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "END",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Ration zone": {
+            "title": "Ration-zone",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
           }
         }
       }
