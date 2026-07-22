@@ -1,37 +1,37 @@
 {
-"name": "Monster Hunter TCG",
-"menuBackgroundImage": "https://soulsy28.github.io/MhTCG/Banniere_MhTCG.jpg",
-"defaultRessources": {
-"backgrounds": [
-    "https://soulsy28.github.io/MhTCG/Banniere_MhTCG.jpg"
-],
-"decksUrl": ""
+    "name": "Monster Hunter TCG",
+    "menuBackgroundImage": "https://soulsy28.github.io/MhTCG/Banniere_MhTCG.jpg",
+    "defaultRessources": {
+    "backgrounds": [
+        "https://soulsy28.github.io/MhTCG/Banniere_MhTCG.jpg"
+    ],
+    "decksUrl": ""
 },
 "customHelp": "Custom text for the futur\n good luck.",
 "cardRotation": "90",
 "cards": {
-"dataUrl": "https://soulsy28.github.io/MhTCG/CardList.json",
-"cardBack": "https://soulsy28.github.io/MhTCG/Card/CardBackImage.png",
-"cardBackColor": "#03354a"
+    "dataUrl": "https://soulsy28.github.io/MhTCG/CardList.json",
+    "cardBack": "https://soulsy28.github.io/MhTCG/Card/CardBackImage.png",
+    "cardBackColor": "#03354a"
 },
-"translationsUrl": "https://soulsy28.github.io/MhTCG/Mh-Translations.json",
+"translationsUrl": "https://soulsy28.github.io/MhTCG/Mh_Translations.json",
 "deckBuilding": {
-"mainFilters": [
-    "type",
-    "cost",
-    "name",
-    "Color",
-    "Set"
-],
-"formats": [
-    {
-    "title": "Classic_format",
-    "gameplay": "Classic",
-    "customCategories": [],
-    "deckRuleset": "Standard",
-    "legalityCode": "STD"
-    }
-],
+    "mainFilters": [
+        "type",
+        "cost",
+        "name",
+        "Color",
+        "Set"
+    ],
+    "formats": [
+        {
+            "title": "Classic_format",
+            "gameplay": "Classic",
+            "customCategories": [],
+            "deckRuleset": "Standard",
+            "legalityCode": "STD"
+        }
+    ],
 "deckRulesets": {
     "Standard": {
         "reversedLegality": true,
