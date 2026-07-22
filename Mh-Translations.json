@@ -1,13 +1,13 @@
 {
-    "additionalLanguages": ["zh"],
+    "additionalLanguages": ["fr"],
     "en": {
         "Gameplay": {
-            "Classic": "Classic",
+            "Classic": "Classic"
         }
     },
     "fr": {
         "Gameplay": {
-            "Classic": "Classique",
+            "Classic": "Classique"
         }
     }
 }

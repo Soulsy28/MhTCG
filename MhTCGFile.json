@@ -1,0 +1,435 @@
+{
+"name": "Monster Hunter TCG",
+"menuBackgroundImage": "https://soulsy28.github.io/MhTCG/Banniere_MhTCG.jpg",
+"defaultRessources": {
+"backgrounds": [
+    "https://soulsy28.github.io/MhTCG/Banniere_MhTCG.jpg"
+],
+"decksUrl": ""
+},
+"customHelp": "Custom text for the futur\n good luck.",
+"cardRotation": "90",
+"cards": {
+"dataUrl": "https://soulsy28.github.io/MhTCG/CardList.json",
+"cardBack": "https://soulsy28.github.io/MhTCG/Card/CardBackImage.png",
+"cardBackColor": "#03354a"
+},
+"translationsUrl": "https://soulsy28.github.io/MhTCG/Mh-Translations.json",
+"deckBuilding": {
+"mainFilters": [
+    "type",
+    "cost",
+    "name",
+    "Color",
+    "Set"
+],
+"formats": [
+    {
+    "title": "Classic_format",
+    "gameplay": "Classic",
+    "customCategories": [],
+    "deckRuleset": "Standard",
+    "legalityCode": "STD"
+    }
+],
+"deckRulesets": {
+    "Standard": {
+        "reversedLegality": true,
+        "general": {
+            "min": 56,
+            "max": 56,
+            "maxPerCard": 4
+        },
+        "categories": [
+            {
+                "category": "Hunt_Chief",
+                "min": 1,
+                "max": 1,
+                "maxPerCard": 1
+            },
+            {
+                "category": "Rations",
+                "min": 15,
+                "max": 15,
+                "maxPerCard": 15
+            }
+        ]
+    }
+}
+},
+"gameplay": {
+    "Classic": {
+        "beforeGameStart": {
+            "chooseAnotherStartingPlayer": true,
+            "initialBoardSetup": {
+                "0": [
+                {
+                    "drawFromTop": "Rations",
+                    "count": 2,
+                    "destination": "Mana"
+                },
+                {
+                    "drawFromTop": "Deck",
+                    "count": 1,
+                    "destination": "Hand"
+                }
+                ],
+                "1": [
+                {
+                    "drawFromTop": "Rations",
+                    "count": 1,
+                    "destination": "Mana",
+                    "waitForPlayerTurn": true
+                }
+                ]
+            }
+        },
+        "mulligan": {
+            "triggeredByButton": true,
+            "startingHandSize": 5,
+            "mulliganCount": {
+                "min": 0,
+                "max": 1
+            },
+            "mulliganCycle": {
+                "info": "Mulligan all your hand one time. GLHF!",
+                "steps": ["toBottom", "draw", "shuffle"],
+                "selectionRange": {
+                    "min": 0,
+                    "max": 10
+                },
+                "keepCardOrder": false
+            }
+        },
+        "newTurn": {
+            "drawOnStart": false,
+            "sharedTurn": false,
+            "firstPlayerTokenName": "",
+            "drawPerTurn": "1"
+        },
+        "defaultNotes": "",
+        "tokens": [],
+        "countersStartingValues": [
+            0
+        ],
+        "hideFacedDownCards": false,
+        "draggableTokens": [],
+        "sections": {
+            "layout": {
+                "direction": "column",
+                "isSymetricalForOpponents": false,
+                "content": [
+                    {
+                        "direction": "row",
+                        "style": false,
+                        "content": [
+                            {
+                                "direction": "column",
+                                "style": { "height": "24.25vh", "margin": "0.25vh" },
+                                "content": [
+                                    {
+                                        "section": "Hunting_ground",
+                                        "style": {
+                                            "width": "30vh",
+                                            "height": "12vh",
+                                            "scale": "0.68",
+                                            "position": "absolute",
+                                            "top": "0",
+                                            "left": "50%",
+                                            "translate": "-50% -3.25vh"
+                                        }
+                                    },
+                                    {
+                                        "section": "B1",
+                                        "style": {
+                                            "borderRadius": "1vh",
+                                            "marginTop": "auto"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "direction": "column",
+                                "style": { "height": "24.25vh", "margin": "0.25vh" },
+                                "optional": { "key": "Baron Pit" },
+                                "content": [
+                                    {
+                                        "section": "myBF3",
+                                        "style": {
+                                            "width": "30vh",
+                                            "height": "12vh",
+                                            "scale": "0.68",
+                                            "position": "absolute",
+                                            "top": "0",
+                                            "left": "50%",
+                                            "translate": "-50% -3.25vh"
+                                        }
+                                    },
+                                    {
+                                        "section": "B3",
+                                        "style": {
+                                            "borderRadius": "1vh",
+                                            "marginTop": "auto"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "direction": "column",
+                                "style": { "height": "24.25vh", "margin": "0.25vh" },
+                                "content": [
+                                    {
+                                        "section": "myBF2",
+                                        "style": {
+                                            "width": "30vh",
+                                            "height": "12vh",
+                                            "scale": "0.68",
+                                            "position": "absolute",
+                                            "top": "0",
+                                            "left": "50%",
+                                            "translate": "-50% -3.25vh"
+                                        }
+                                    },
+                                    {
+                                        "section": "B2",
+                                        "style": {
+                                            "borderRadius": "1vh",
+                                            "marginTop": "auto"
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "isSymetricalForOpponents": false
+                    },
+                    {
+                        "direction": "row",
+                        "style": false,
+                        "content": [
+                            {
+                                "section": "Rations"
+                            },
+                            {
+                                "section": "Mana",
+                                "style": {
+                                    "width": "35%"
+                                }
+                            },
+                            {
+                                "section": "Camp"
+                            },
+                            {
+                                "section": "Hunt_Chief",
+                                "style": {
+                                    "width": "10.2vh"
+                                }
+                            }
+                        ],
+                        "isSymetricalForOpponents": false
+                    }
+                ]
+            },
+            "categoriesAlreadyOnBoard": [
+                "Rations",
+                "Hunt_Chief"
+            ],
+            "autoPlayFromHand": {
+                "Rations": "Mana",
+                "Hunter": "Camp",
+                "Technique": "Stack"
+            },
+            "autoPlayFromStack": {
+                "Technique": "Discard"
+            },
+            "sectionsDict": {
+                "Rations": {
+                    "isHidden": "yes",
+                    "height": "SMALL",
+                    "alignment": "DECK",
+                    "drawPerTurn": 2,
+                    "opponentAlignment": false,
+                    "noAutoPayTo": true,
+                    "isHorizontalAllowed": false,
+                    "displayedTitle": "Rations Deck",
+                    "noQuickActions": false,
+                    "enterTapped": false,
+                    "enterSpun": false,
+                    "isGroupForbidden": false,
+                    "keepTappedNewTurn": false,
+                    "showHiddenCardInHistory": false,
+                    "cardBackColor": "#e0e0e0"
+                },
+                "Camp": {
+                    "isHidden": "no",
+                    "height": "SMALL",
+                    "alignment": "CENTER",
+                    "opponentAlignment": false,
+                    "noAutoPayTo": true,
+                    "isHorizontalAllowed": true,
+                    "displayedTitle": "Camp",
+                    "noQuickActions": false,
+                    "enterTapped": true,
+                    "enterSpun": false,
+                    "isGroupForbidden": false,
+                    "keepTappedNewTurn": false,
+                    "showHiddenCardInHistory": false
+                },
+                "Hunting_ground": {
+                    "isHidden": "no",
+                    "height": "12",
+                    "alignment": "CENTER",
+                    "opponentAlignment": false,
+                    "noAutoPayTo": true,
+                    "isHorizontalAllowed": true,
+                    "displayedTitle": "Hunting Ground",
+                    "noQuickActions": true,
+                    "enterTapped": false,
+                    "enterSpun": false,
+                    "isGroupForbidden": false,
+                    "keepTappedNewTurn": false,
+                    "showHiddenCardInHistory": false,
+                    "cardStyle": {
+                        "marginTop": "-2vh"
+                    },
+                    "reverseZOrder": true
+                },
+                "myBF2": {
+                    "isHidden": "no",
+                    "height": "12",
+                    "alignment": "CENTER",
+                    "opponentAlignment": false,
+                    "noAutoPayTo": true,
+                    "isHorizontalAllowed": true,
+                    "displayedTitle": "Opponent Battlefield",
+                    "noQuickActions": true,
+                    "enterTapped": false,
+                    "enterSpun": false,
+                    "isGroupForbidden": false,
+                    "keepTappedNewTurn": false,
+                    "showHiddenCardInHistory": false,
+                    "cardStyle": {
+                        "marginTop": "-2vh"
+                    }
+                },
+                "myBF3": {
+                    "isHidden": "no",
+                    "height": "12",
+                    "alignment": "CENTER",
+                    "opponentAlignment": false,
+                    "noAutoPayTo": true,
+                    "isHorizontalAllowed": true,
+                    "displayedTitle": "Baron Pit",
+                    "noQuickActions": true,
+                    "enterTapped": false,
+                    "enterSpun": false,
+                    "isGroupForbidden": false,
+                    "keepTappedNewTurn": false,
+                    "showHiddenCardInHistory": false,
+                    "cardStyle": {
+                        "marginTop": "-2vh"
+                    }
+                },
+                "B1": {
+                    "isHidden": "no",
+                    "height": "16",
+                    "alignment": "CENTER",
+                    "opponentAlignment": false,
+                    "noAutoPayTo": true,
+                    "isHorizontalAllowed": true,
+                    "displayedTitle": "BF Units 1",
+                    "noQuickActions": false,
+                    "enterTapped": true,
+                    "enterSpun": false,
+                    "isGroupForbidden": false,
+                    "keepTappedNewTurn": false,
+                    "showHiddenCardInHistory": false
+                },
+                "B2": {
+                    "isHidden": "no",
+                    "height": "16",
+                    "alignment": "CENTER",
+                    "opponentAlignment": false,
+                    "noAutoPayTo": true,
+                    "isHorizontalAllowed": true,
+                    "displayedTitle": "BF Units 2",
+                    "noQuickActions": false,
+                    "enterTapped": true,
+                    "enterSpun": false,
+                    "isGroupForbidden": false,
+                    "keepTappedNewTurn": false,
+                    "showHiddenCardInHistory": false
+                },
+                "B3": {
+                    "isHidden": "no",
+                    "height": "16",
+                    "alignment": "CENTER",
+                    "opponentAlignment": false,
+                    "noAutoPayTo": true,
+                    "isHorizontalAllowed": true,
+                    "displayedTitle": "Baron Pit Units",
+                    "noQuickActions": false,
+                    "enterTapped": true,
+                    "enterSpun": false,
+                    "isGroupForbidden": false,
+                    "keepTappedNewTurn": false,
+                    "showHiddenCardInHistory": false
+                },
+                "Hunt_Chief": {
+                    "isHidden": "no",
+                    "height": "SMALL",
+                    "alignment": "CENTER",
+                    "opponentAlignment": false,
+                    "noAutoPayTo": true,
+                    "isHorizontalAllowed": true,
+                    "displayedTitle": "Hunt Chief",
+                    "noQuickActions": true,
+                    "enterTapped": false,
+                    "enterSpun": false,
+                    "isGroupForbidden": false,
+                    "keepTappedNewTurn": false,
+                    "showHiddenCardInHistory": false
+                },
+                "Mana": {
+                    "isHidden": "no",
+                    "height": "SMALL",
+                    "alignment": "CENTER",
+                    "opponentAlignment": false,
+                    "noAutoPayTo": true,
+                    "isHorizontalAllowed": true,
+                    "displayedTitle": "Rations",
+                    "noQuickActions": false,
+                    "enterTapped": false,
+                    "enterSpun": false,
+                    "isGroupForbidden": false,
+                    "keepTappedNewTurn": false,
+                    "showHiddenCardInHistory": false,
+                    "cardActionShortcut": {
+                        "action": "MOVE",
+                        "actionData": {
+                            "destination": "Rations",
+                            "position": "BOTTOM"
+                        },
+                        "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton.png"
+                    }
+                },
+                "Stack": {
+                    "isDefaultSection": true,
+                    "isHidden": "no",
+                    "height": "HUGE",
+                    "alignment": "NONE",
+                    "isHorizontalAllowed": false,
+                    "isGroupForbidden": true,
+                    "displayedTitle": "Pile",
+                    "opponentAlignment": false,
+                    "noAutoPayTo": true,
+                    "noQuickActions": false,
+                    "enterTapped": false,
+                    "enterSpun": false,
+                    "keepTappedNewTurn": false,
+                    "showHiddenCardInHistory": false
+                }
+            }
+        }
+    }
+}
+}
