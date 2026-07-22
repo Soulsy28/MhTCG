@@ -3266,8 +3266,8 @@
         "type": "Hunt Chief",
         "cost": 0,
         "image": {
-          "en": "",
-          "fr": ""
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_500_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_500_fr.jpg"
         },
         "isHorizontal": false
       }
