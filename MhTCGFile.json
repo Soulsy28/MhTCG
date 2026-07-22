@@ -219,7 +219,7 @@
                                 "section": "Camp"
                             },
                             {
-                                "section": "Hunt_Chief",
+                                "section": "Hunt Chief",
                                 "style": {
                                     "width": "10.2vh"
                                 }
@@ -374,7 +374,7 @@
                     "keepTappedNewTurn": false,
                     "showHiddenCardInHistory": false
                 },
-                "Hunt_Chief": {
+                "Hunt Chief": {
                     "isHidden": "no",
                     "height": "SMALL",
                     "alignment": "CENTER",
