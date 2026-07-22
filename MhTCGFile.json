@@ -1,9 +1,9 @@
 {
     "name": "Monster Hunter TCG",
-    "menuBackgroundImage": "https://soulsy28.github.io/MhTCG/Banniere_MhTCG.jpg",
+    "menuBackgroundImage": "https://soulsy28.github.io/MhTCG/Background/Banniere_MhTCG.jpg",
     "defaultRessources": {
     "backgrounds": [
-        "https://soulsy28.github.io/MhTCG/Banniere_MhTCG.jpg"
+        "https://soulsy28.github.io/MhTCG/Background/Banniere_MhTCG.jpg"
     ],
     "decksUrl": ""
 },
