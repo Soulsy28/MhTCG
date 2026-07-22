@@ -13,12 +13,12 @@
     "dataUrl": "https://soulsy28.github.io/MhTCG/CardList.json",
     "cardBack": "https://soulsy28.github.io/MhTCG/Card/CardBackImage.png"
   },
+  "translationsUrl": "https://soulsy28.github.io/MhTCG/Card/Mh-Translations.json",
   "deckBuilding": {
     "mainFilters": [
-      "Type",
-      "Cost",
-      "Strenght",
-      "HP"
+      "type",
+      "cost",
+      "color",
     ],
     "formats": [
       {
