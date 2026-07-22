@@ -95,7 +95,7 @@
                 "info": "Mulligan all your hand one time. GLHF!",
                 "steps": ["toBottom", "draw", "shuffle"],
                 "selectionRange": {
-                    "min": 0,
+                    "min": 10,
                     "max": 10
                 },
                 "keepCardOrder": false
