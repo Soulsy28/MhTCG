@@ -1,108 +1,3293 @@
 {
-    "MhFG-000": {
-        "id": "MhFG-000",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": {
-                    "en": "Ration",
-                    "fr": "Ration"
-                },
-                "type": "Rations",
-                "cost": 0,
-                "image": {
-                    "en": "",
-                    "fr": ""
-                },
-                "isHorizontal": false
-            }
-        },
+  "MhFG-000": {
+    "id": "MhFG-000",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": {
-            "en": "Ration",
-            "fr": "Ration"
+          "en": "Ration",
+          "fr": "Ration"
         },
         "type": "Rations",
         "cost": 0,
-        "Domain": [
-            "None"
-        ],
-        "Set": [
-            "MhFG"
-        ],
-        "_legal": {
-            "PRE": true,
-            "STD": true
-        }
-    },
-    "MhFG-001": {
-        "id":"MhFG-001",
-        "isToken": false,
-        "face": {
-            "front":{
-                "name":{
-                    "en": "Lao-Shan Lung, Sleeping Dragon",
-                    "fr": "Lao-Shan Lung, dragon endormi"
-                },
-                "type": "Monster",
-                "cost": 12,
-                "image": {
-                    "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_001_en.jpg",
-                    "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_001_fr.jpg"
-                },
-                "isHorizontal": false
-            }
+        "image": {
+          "en": "",
+          "fr": ""
         },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ration",
+      "fr": "Ration"
+    },
+    "type": "Rations",
+    "cost": 0,
+    "Domain": [
+      "None"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-001": {
+    "id": "MhFG-001",
+    "isToken": false,
+    "face": {
+      "front": {
         "name": {
-            "en": "Lao-Shan Lung, Sleeping Dragon",
-            "fr": "Lao-Shan Lung, dragon endormi"
+          "en": "Lao-Shan Lung, Sleeping Dragon",
+          "fr": "Lao-Shan Lung, dragon endormi"
         },
         "type": "Monster",
         "cost": 12,
-        "Color": [ 
-            "Green"
-        ],
-        "Set": [
-            "MhFG"
-        ],
-        "_legal": {
-            "PRE": true,
-            "STD": true
-        }
-    },
-    "MhFG-500": {
-        "id": "MhFG-500",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": {
-                    "en": "Brann, cycle master",
-                    "fr": "Brann, maitre du cycle"
-                },
-                "type": "Hunt Chief",
-                "cost": 0,
-                "image": {
-                    "en": "",
-                    "fr": ""
-                },
-                "isHorizontal": false
-            }
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_001_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_001_fr.jpg"
         },
-        "name":{
-            "en": "Brann, cycle master",
-            "fr": "Brann, maitre du cycle"
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Lao-Shan Lung, Sleeping Dragon",
+      "fr": "Lao-Shan Lung, dragon endormi"
+    },
+    "type": "Monster",
+    "cost": 12,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-002": {
+    "id": "MhFG-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Young Rathian",
+          "fr": "Jeune Rathian"
+        },
+        "type": "Monster",
+        "cost": 7,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_002_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_002_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Young Rathian",
+      "fr": "Jeune Rathian"
+    },
+    "type": "Monster",
+    "cost": 7,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-003": {
+    "id": "MhFG-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Gypceros, the Dazzler",
+          "fr": "Gypceros, L'éblouissant"
+        },
+        "type": "Monster",
+        "cost": 8,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_003_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_003_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Gypceros, the Dazzler",
+      "fr": "Gypceros, L'éblouissant"
+    },
+    "type": "Monster",
+    "cost": 8,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-004": {
+    "id": "MhFG-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Purple Gypceros, Feigning Death",
+          "fr": "Gypceros améthyste, simulacre de mort"
+        },
+        "type": "Monster",
+        "cost": 9,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_004_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_004_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Purple Gypceros, Feigning Death",
+      "fr": "Gypceros améthyste, simulacre de mort"
+    },
+    "type": "Monster",
+    "cost": 9,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-005": {
+    "id": "MhFG-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Iodrome, Ioprey Chief",
+          "fr": "Iodrome, Chef des Ioprey"
+        },
+        "type": "Monster",
+        "cost": 8,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_005_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_005_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Iodrome, Ioprey Chief",
+      "fr": "Iodrome, Chef des Ioprey"
+    },
+    "type": "Monster",
+    "cost": 8,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-006": {
+    "id": "MhFG-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Farmer Poogie",
+          "fr": "Poogie Cultivateur"
+        },
+        "type": "Monster",
+        "cost": 4,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_006_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_006_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Farmer Poogie",
+      "fr": "Poogie Cultivateur"
+    },
+    "type": "Monster",
+    "cost": 4,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-007": {
+    "id": "MhFG-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mosswine",
+          "fr": "Mosswine"
+        },
+        "type": "Monster",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_007_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_007_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mosswine",
+      "fr": "Mosswine"
+    },
+    "type": "Monster",
+    "cost": 3,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-008": {
+    "id": "MhFG-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ioprey, Chief's Protector",
+          "fr": "Ioprey, Protecteur du chef"
+        },
+        "type": "Monster",
+        "cost": 4,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_008_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_008_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ioprey, Chief's Protector",
+      "fr": "Ioprey, Protecteur du chef"
+    },
+    "type": "Monster",
+    "cost": 4,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-009": {
+    "id": "MhFG-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Healer Felyne",
+          "fr": "Felyne Infirmier"
+        },
+        "type": "Monster",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_009_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_009_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Healer Felyne",
+      "fr": "Felyne Infirmier"
+    },
+    "type": "Monster",
+    "cost": 2,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-010": {
+    "id": "MhFG-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Vivian, the Glutton",
+          "fr": "Vivian, Le gourmand"
+        },
+        "type": "Hunter",
+        "cost": 5,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_010_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_010_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Vivian, the Glutton",
+      "fr": "Vivian, Le gourmand"
+    },
+    "type": "Hunter",
+    "cost": 5,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-011": {
+    "id": "MhFG-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Zero, Honey Devotee",
+          "fr": "Zero, adorateur de miel"
+        },
+        "type": "Hunter",
+        "cost": 8,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_011_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_011_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Zero, Honey Devotee",
+      "fr": "Zero, adorateur de miel"
+    },
+    "type": "Hunter",
+    "cost": 8,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-012": {
+    "id": "MhFG-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Zora, Calmed by the Forest",
+          "fr": "Zora, apaisé par la forêt"
+        },
+        "type": "Hunter",
+        "cost": 10,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_012_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_012_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Zora, Calmed by the Forest",
+      "fr": "Zora, apaisé par la forêt"
+    },
+    "type": "Hunter",
+    "cost": 10,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-013": {
+    "id": "MhFG-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ellie, Weapon Sharpener",
+          "fr": "Ellie, aiguiseuse d'arme"
+        },
+        "type": "Hunter",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_013_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_013_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ellie, Weapon Sharpener",
+      "fr": "Ellie, aiguiseuse d'arme"
+    },
+    "type": "Hunter",
+    "cost": 3,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-014": {
+    "id": "MhFG-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Oak Bard",
+          "fr": "Barde du chêne"
+        },
+        "type": "Hunter",
+        "cost": 6,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_014_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_014_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Oak Bard",
+      "fr": "Barde du chêne"
+    },
+    "type": "Hunter",
+    "cost": 6,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-015": {
+    "id": "MhFG-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Potion",
+          "fr": "Potion"
+        },
+        "type": "Item",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_015_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_015_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Potion",
+      "fr": "Potion"
+    },
+    "type": "Item",
+    "cost": 2,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-016": {
+    "id": "MhFG-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Health Flute",
+          "fr": "Flûte de santé"
+        },
+        "type": "Item",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_016_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_016_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Health Flute",
+      "fr": "Flûte de santé"
+    },
+    "type": "Item",
+    "cost": 3,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-017": {
+    "id": "MhFG-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Life Powder",
+          "fr": "Poudre de vie"
+        },
+        "type": "Item",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_017_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_017_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Life Powder",
+      "fr": "Poudre de vie"
+    },
+    "type": "Item",
+    "cost": 3,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-018": {
+    "id": "MhFG-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Well-Done Steak",
+          "fr": "Steak à point"
+        },
+        "type": "Item",
+        "cost": 4,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_018_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_018_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Well-Done Steak",
+      "fr": "Steak à point"
+    },
+    "type": "Item",
+    "cost": 4,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-019": {
+    "id": "MhFG-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Forward Leap",
+          "fr": "Bond en avant"
+        },
+        "type": "Technique",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_019_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_019_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Forward Leap",
+      "fr": "Bond en avant"
+    },
+    "type": "Technique",
+    "cost": 2,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-020": {
+    "id": "MhFG-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Felyne Cuisine",
+          "fr": "Cuisine Felyne"
+        },
+        "type": "Technique",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_020_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_020_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Felyne Cuisine",
+      "fr": "Cuisine Felyne"
+    },
+    "type": "Technique",
+    "cost": 3,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-021": {
+    "id": "MhFG-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Field Study",
+          "fr": "Étude de terrain"
+        },
+        "type": "Technique",
+        "cost": 4,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_021_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_021_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Field Study",
+      "fr": "Étude de terrain"
+    },
+    "type": "Technique",
+    "cost": 4,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-022": {
+    "id": "MhFG-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Random Growth",
+          "fr": "Pousse aléatoire"
+        },
+        "type": "Technique",
+        "cost": 1,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_022_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_022_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Random Growth",
+      "fr": "Pousse aléatoire"
+    },
+    "type": "Technique",
+    "cost": 1,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-023": {
+    "id": "MhFG-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Rhythm of the Forest",
+          "fr": "Rythme de la forêt"
+        },
+        "type": "Technique",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_023_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_023_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Rhythm of the Forest",
+      "fr": "Rythme de la forêt"
+    },
+    "type": "Technique",
+    "cost": 3,
+    "Color": [
+      "Green"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-024": {
+    "id": "MhFG-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Rathian, Ruler of the Plains",
+          "fr": "Rathian, dominante des plaines"
+        },
+        "type": "Monster",
+        "cost": 8,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_024_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_024_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Rathian, Ruler of the Plains",
+      "fr": "Rathian, dominante des plaines"
+    },
+    "type": "Monster",
+    "cost": 8,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-025": {
+    "id": "MhFG-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Velocidrome, Leader of the Weak",
+          "fr": "Velocidrome, chef des faibles"
+        },
+        "type": "Monster",
+        "cost": 5,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_025_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_025_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Velocidrome, Leader of the Weak",
+      "fr": "Velocidrome, chef des faibles"
+    },
+    "type": "Monster",
+    "cost": 5,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-026": {
+    "id": "MhFG-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Yian Kut-Ku, Mischievous Opportunist",
+          "fr": "Yian Kut-ku, espiègle et profiteuse"
+        },
+        "type": "Monster",
+        "cost": 6,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_026_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_026_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Yian Kut-Ku, Mischievous Opportunist",
+      "fr": "Yian Kut-ku, espiègle et profiteuse"
+    },
+    "type": "Monster",
+    "cost": 6,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-027": {
+    "id": "MhFG-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Blue Yian Kut-Ku, Frenzied Chicken",
+          "fr": "Yian Kut-ku Bleu, Poulet frénétique"
+        },
+        "type": "Monster",
+        "cost": 9,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_027_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_027_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Blue Yian Kut-Ku, Frenzied Chicken",
+      "fr": "Yian Kut-ku Bleu, Poulet frénétique"
+    },
+    "type": "Monster",
+    "cost": 9,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-028": {
+    "id": "MhFG-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Velociprey, Meat Seeker",
+          "fr": "Velociprey, chercheur de viande"
+        },
+        "type": "Monster",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_028_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_028_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Velociprey, Meat Seeker",
+      "fr": "Velociprey, chercheur de viande"
+    },
+    "type": "Monster",
+    "cost": 3,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-029": {
+    "id": "MhFG-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Kelbi",
+          "fr": "Kelbi"
+        },
+        "type": "Monster",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_029_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_029_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Kelbi",
+      "fr": "Kelbi"
+    },
+    "type": "Monster",
+    "cost": 2,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-030": {
+    "id": "MhFG-030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Bullfango",
+          "fr": "Bullfango"
+        },
+        "type": "Monster",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_030_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_030_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Bullfango",
+      "fr": "Bullfango"
+    },
+    "type": "Monster",
+    "cost": 3,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-031": {
+    "id": "MhFG-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Aptonoth",
+          "fr": "Aptonoth"
+        },
+        "type": "Monster",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_031_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_031_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Aptonoth",
+      "fr": "Aptonoth"
+    },
+    "type": "Monster",
+    "cost": 3,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-032": {
+    "id": "MhFG-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Baby Aptonoth",
+          "fr": "Bébé Aptonoth"
+        },
+        "type": "Monster",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_032_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_032_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Baby Aptonoth",
+      "fr": "Bébé Aptonoth"
+    },
+    "type": "Monster",
+    "cost": 2,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-033": {
+    "id": "MhFG-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Beast Carver",
+          "fr": "Dépeceur de bête"
+        },
+        "type": "Hunter",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_033_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_033_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Beast Carver",
+      "fr": "Dépeceur de bête"
+    },
+    "type": "Hunter",
+    "cost": 3,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-034": {
+    "id": "MhFG-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Moon, Wanderer of the Plains",
+          "fr": "Moon, vagabond des plaines"
+        },
+        "type": "Hunter",
+        "cost": 8,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_034_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_034_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Moon, Wanderer of the Plains",
+      "fr": "Moon, vagabond des plaines"
+    },
+    "type": "Hunter",
+    "cost": 8,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-035": {
+    "id": "MhFG-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Vash, Reckless Lancer",
+          "fr": "Vash, lancier téméraire"
+        },
+        "type": "Hunter",
+        "cost": 5,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_035_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_035_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Vash, Reckless Lancer",
+      "fr": "Vash, lancier téméraire"
+    },
+    "type": "Hunter",
+    "cost": 5,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-036": {
+    "id": "MhFG-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Titus, Lancer's Aide",
+          "fr": "Titus, adjoint lancier"
+        },
+        "type": "Hunter",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_036_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_036_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Titus, Lancer's Aide",
+      "fr": "Titus, adjoint lancier"
+    },
+    "type": "Hunter",
+    "cost": 3,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-037": {
+    "id": "MhFG-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Vivien, the Weakness Finder",
+          "fr": "Vivien, Le trouveur de faiblesse"
+        },
+        "type": "Hunter",
+        "cost": 7,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_037_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_037_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Vivien, the Weakness Finder",
+      "fr": "Vivien, Le trouveur de faiblesse"
+    },
+    "type": "Hunter",
+    "cost": 7,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-038": {
+    "id": "MhFG-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Gartin, Little Gunner",
+          "fr": "Gartin, petit tireur"
+        },
+        "type": "Hunter",
+        "cost": 4,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_038_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_038_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Gartin, Little Gunner",
+      "fr": "Gartin, petit tireur"
+    },
+    "type": "Hunter",
+    "cost": 4,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-039": {
+    "id": "MhFG-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Catalyst",
+          "fr": "Catalyseur"
+        },
+        "type": "Item",
+        "cost": 5,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_039_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_039_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Catalyst",
+      "fr": "Catalyseur"
+    },
+    "type": "Item",
+    "cost": 5,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-040": {
+    "id": "MhFG-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Immunizer",
+          "fr": "Immunisateur"
+        },
+        "type": "Item",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_040_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_040_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Immunizer",
+      "fr": "Immunisateur"
+    },
+    "type": "Item",
+    "cost": 3,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-041": {
+    "id": "MhFG-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tribal Drum",
+          "fr": "Tambour de tribu"
+        },
+        "type": "Item",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_041_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_041_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tribal Drum",
+      "fr": "Tambour de tribu"
+    },
+    "type": "Item",
+    "cost": 3,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-042": {
+    "id": "MhFG-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Will of the Weak",
+          "fr": "Volonté des faibles"
+        },
+        "type": "Technique",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_042_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_042_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Will of the Weak",
+      "fr": "Volonté des faibles"
+    },
+    "type": "Technique",
+    "cost": 2,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-043": {
+    "id": "MhFG-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Cycle of Life",
+          "fr": "Cycle de la vie"
+        },
+        "type": "Technique",
+        "cost": 4,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_043_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_043_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Cycle of Life",
+      "fr": "Cycle de la vie"
+    },
+    "type": "Technique",
+    "cost": 4,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-044": {
+    "id": "MhFG-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "The Pack Arrives!",
+          "fr": "La meute arrive !"
+        },
+        "type": "Technique",
+        "cost": 5,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_044_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_044_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "The Pack Arrives!",
+      "fr": "La meute arrive !"
+    },
+    "type": "Technique",
+    "cost": 5,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-045": {
+    "id": "MhFG-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Perfect Block",
+          "fr": "Blocage parfait"
+        },
+        "type": "Technique",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_045_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_045_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Perfect Block",
+      "fr": "Blocage parfait"
+    },
+    "type": "Technique",
+    "cost": 2,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-046": {
+    "id": "MhFG-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Sharing the Leftovers",
+          "fr": "Partage des restes"
+        },
+        "type": "Technique",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_046_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_046_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Sharing the Leftovers",
+      "fr": "Partage des restes"
+    },
+    "type": "Technique",
+    "cost": 3,
+    "Color": [
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-047": {
+    "id": "MhFG-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Monoblos, Predator of Hunters",
+          "fr": "Monoblos, prédateur des chasseurs"
+        },
+        "type": "Monster",
+        "cost": 8,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_047_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_047_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Monoblos, Predator of Hunters",
+      "fr": "Monoblos, prédateur des chasseurs"
+    },
+    "type": "Monster",
+    "cost": 8,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-048": {
+    "id": "MhFG-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Diablos, Bringer of Fear",
+          "fr": "Diablos, celui qui insuffle la peur"
+        },
+        "type": "Monster",
+        "cost": 8,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_048_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_048_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Diablos, Bringer of Fear",
+      "fr": "Diablos, celui qui insuffle la peur"
+    },
+    "type": "Monster",
+    "cost": 8,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-049": {
+    "id": "MhFG-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Cephadrome, the Coward",
+          "fr": "Cephadrome, le lâche"
+        },
+        "type": "Monster",
+        "cost": 7,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_049_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_049_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Cephadrome, the Coward",
+      "fr": "Cephadrome, le lâche"
+    },
+    "type": "Monster",
+    "cost": 7,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-050": {
+    "id": "MhFG-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Gendrome, Rallier of the Weak",
+          "fr": "Gendrome, mobilise les faibles"
+        },
+        "type": "Monster",
+        "cost": 6,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_050_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_050_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Gendrome, Rallier of the Weak",
+      "fr": "Gendrome, mobilise les faibles"
+    },
+    "type": "Monster",
+    "cost": 6,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-051": {
+    "id": "MhFG-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Old Diablos",
+          "fr": "Vieux Diablos"
+        },
+        "type": "Monster",
+        "cost": 11,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_051_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_051_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Old Diablos",
+      "fr": "Vieux Diablos"
+    },
+    "type": "Monster",
+    "cost": 11,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-052": {
+    "id": "MhFG-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Cephalos",
+          "fr": "Cephalos"
+        },
+        "type": "Monster",
+        "cost": 4,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_052_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_052_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Cephalos",
+      "fr": "Cephalos"
+    },
+    "type": "Monster",
+    "cost": 4,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-053": {
+    "id": "MhFG-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Apceros",
+          "fr": "Apceros"
+        },
+        "type": "Monster",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_053_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_053_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Apceros",
+      "fr": "Apceros"
+    },
+    "type": "Monster",
+    "cost": 2,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-054": {
+    "id": "MhFG-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Genprey",
+          "fr": "Genprey"
+        },
+        "type": "Monster",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_054_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_054_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Genprey",
+      "fr": "Genprey"
+    },
+    "type": "Monster",
+    "cost": 3,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-055": {
+    "id": "MhFG-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Gerard Hammer",
+          "fr": "Gerard Marteau"
+        },
+        "type": "Hunter",
+        "cost": 5,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_055_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_055_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Gerard Hammer",
+      "fr": "Gerard Marteau"
+    },
+    "type": "Hunter",
+    "cost": 5,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-056": {
+    "id": "MhFG-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Orik, the Patient",
+          "fr": "Orik, le patient"
+        },
+        "type": "Hunter",
+        "cost": 4,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_056_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_056_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Orik, the Patient",
+      "fr": "Orik, le patient"
+    },
+    "type": "Hunter",
+    "cost": 4,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-057": {
+    "id": "MhFG-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Selene, Phial Expert",
+          "fr": "Sélène, experte des fioles"
+        },
+        "type": "Hunter",
+        "cost": 6,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_057_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_057_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Selene, Phial Expert",
+      "fr": "Sélène, experte des fioles"
+    },
+    "type": "Hunter",
+    "cost": 6,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-058": {
+    "id": "MhFG-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Eric, the Rational",
+          "fr": "Eric, le rationnel"
+        },
+        "type": "Hunter",
+        "cost": 7,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_058_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_058_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Eric, the Rational",
+      "fr": "Eric, le rationnel"
+    },
+    "type": "Hunter",
+    "cost": 7,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-059": {
+    "id": "MhFG-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Alexandre, Tactical Support",
+          "fr": "Alexandre, appui tactique"
+        },
+        "type": "Hunter",
+        "cost": 6,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_059_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_059_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Alexandre, Tactical Support",
+      "fr": "Alexandre, appui tactique"
+    },
+    "type": "Hunter",
+    "cost": 6,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-060": {
+    "id": "MhFG-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Timmy, Desert Thief",
+          "fr": "Timmy, voleur du désert"
+        },
+        "type": "Hunter",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_060_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_060_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Timmy, Desert Thief",
+      "fr": "Timmy, voleur du désert"
+    },
+    "type": "Hunter",
+    "cost": 3,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-061": {
+    "id": "MhFG-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Fresh Potion",
+          "fr": "Potion fraîche"
+        },
+        "type": "Item",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_061_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_061_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Fresh Potion",
+      "fr": "Potion fraîche"
+    },
+    "type": "Item",
+    "cost": 2,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-062": {
+    "id": "MhFG-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Net",
+          "fr": "Filet"
+        },
+        "type": "Item",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_062_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_062_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Net",
+      "fr": "Filet"
+    },
+    "type": "Item",
+    "cost": 2,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-063": {
+    "id": "MhFG-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tinged Meat",
+          "fr": "Viande paralysante"
+        },
+        "type": "Item",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_063_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_063_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tinged Meat",
+      "fr": "Viande paralysante"
+    },
+    "type": "Item",
+    "cost": 2,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-064": {
+    "id": "MhFG-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Heavy Whetstone",
+          "fr": "Pierre à aiguiser lourde"
+        },
+        "type": "Item",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_064_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_064_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Heavy Whetstone",
+      "fr": "Pierre à aiguiser lourde"
+    },
+    "type": "Item",
+    "cost": 3,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-065": {
+    "id": "MhFG-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Bonk!",
+          "fr": "Bonk !"
+        },
+        "type": "Technique",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_065_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_065_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Bonk!",
+      "fr": "Bonk !"
+    },
+    "type": "Technique",
+    "cost": 2,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-066": {
+    "id": "MhFG-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Sandstorm",
+          "fr": "Tempête de sable"
+        },
+        "type": "Technique",
+        "cost": 5,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_066_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_066_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Sandstorm",
+      "fr": "Tempête de sable"
+    },
+    "type": "Technique",
+    "cost": 5,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-067": {
+    "id": "MhFG-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Dune Charge",
+          "fr": "Charge dans les dunes"
+        },
+        "type": "Technique",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_067_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_067_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Dune Charge",
+      "fr": "Charge dans les dunes"
+    },
+    "type": "Technique",
+    "cost": 2,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-068": {
+    "id": "MhFG-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Spirit of the Desert",
+          "fr": "Esprit du désert"
+        },
+        "type": "Technique",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_068_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_068_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Spirit of the Desert",
+      "fr": "Esprit du désert"
+    },
+    "type": "Technique",
+    "cost": 3,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-069": {
+    "id": "MhFG-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Sand-Worn",
+          "fr": "Usé par le sable"
+        },
+        "type": "Technique",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_069_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_069_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Sand-Worn",
+      "fr": "Usé par le sable"
+    },
+    "type": "Technique",
+    "cost": 2,
+    "Color": [
+      "Orange"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-070": {
+    "id": "MhFG-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ancient Rathalos",
+          "fr": "Ancien Rathalos"
+        },
+        "type": "Monster",
+        "cost": 12,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_070_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_070_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ancient Rathalos",
+      "fr": "Ancien Rathalos"
+    },
+    "type": "Monster",
+    "cost": 12,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-071": {
+    "id": "MhFG-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Rathalos, Emblem of Flames",
+          "fr": "Rathalos, l’emblème des flammes"
+        },
+        "type": "Monster",
+        "cost": 9,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_071_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_071_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Rathalos, Emblem of Flames",
+      "fr": "Rathalos, l’emblème des flammes"
+    },
+    "type": "Monster",
+    "cost": 9,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-072": {
+    "id": "MhFG-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Azure Rathalos, Living Terror",
+          "fr": "Rathalos Azur, terreur vivante"
+        },
+        "type": "Monster",
+        "cost": 7,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_072_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_072_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Azure Rathalos, Living Terror",
+      "fr": "Rathalos Azur, terreur vivante"
+    },
+    "type": "Monster",
+    "cost": 7,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-073": {
+    "id": "MhFG-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Gravios, Walking Volcano",
+          "fr": "Gravios, Volcan mobile"
+        },
+        "type": "Monster",
+        "cost": 8,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_073_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_073_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Gravios, Walking Volcano",
+      "fr": "Gravios, Volcan mobile"
+    },
+    "type": "Monster",
+    "cost": 8,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-074": {
+    "id": "MhFG-074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Iodrome, Enmity Manipulator",
+          "fr": "Iodrome, manipulateur d’inimitié"
+        },
+        "type": "Monster",
+        "cost": 4,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_074_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_074_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Iodrome, Enmity Manipulator",
+      "fr": "Iodrome, manipulateur d’inimitié"
+    },
+    "type": "Monster",
+    "cost": 4,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-075": {
+    "id": "MhFG-075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ioprey, Poison Fang",
+          "fr": "Ioprey, Croc poison"
+        },
+        "type": "Monster",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_075_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_075_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ioprey, Poison Fang",
+      "fr": "Ioprey, Croc poison"
+    },
+    "type": "Monster",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-076": {
+    "id": "MhFG-076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ioprey, Adapted to the Volcano",
+          "fr": "Ioprey, adapté au volcan"
+        },
+        "type": "Monster",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_076_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_076_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ioprey, Adapted to the Volcano",
+      "fr": "Ioprey, adapté au volcan"
+    },
+    "type": "Monster",
+    "cost": 3,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-077": {
+    "id": "MhFG-077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Sauna Poogie",
+          "fr": "Poogie Sauna"
+        },
+        "type": "Monster",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_077_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_077_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Sauna Poogie",
+      "fr": "Poogie Sauna"
+    },
+    "type": "Monster",
+    "cost": 3,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-078": {
+    "id": "MhFG-078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Felyne Demolitionist",
+          "fr": "Felyne artificier"
+        },
+        "type": "Monster",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_078_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_078_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Felyne Demolitionist",
+      "fr": "Felyne artificier"
+    },
+    "type": "Monster",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-079": {
+    "id": "MhFG-079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Corvin, Light Gunner",
+          "fr": "Corvin, artilleur léger"
+        },
+        "type": "Hunter",
+        "cost": 4,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_079_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_079_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Corvin, Light Gunner",
+      "fr": "Corvin, artilleur léger"
+    },
+    "type": "Hunter",
+    "cost": 4,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-080": {
+    "id": "MhFG-080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Bran, the Scout",
+          "fr": "Bran, l’éclaireur"
+        },
+        "type": "Hunter",
+        "cost": 6,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_080_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_080_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Bran, the Scout",
+      "fr": "Bran, l’éclaireur"
+    },
+    "type": "Hunter",
+    "cost": 6,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-081": {
+    "id": "MhFG-081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Rohan, Pyro-Lancer",
+          "fr": "Rohan, pyro-lancier"
+        },
+        "type": "Hunter",
+        "cost": 7,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_081_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_081_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Rohan, Pyro-Lancer",
+      "fr": "Rohan, pyro-lancier"
+    },
+    "type": "Hunter",
+    "cost": 7,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-082": {
+    "id": "MhFG-082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Iska, Monster Feller",
+          "fr": "Iska, Bûcheron des monstres"
+        },
+        "type": "Hunter",
+        "cost": 7,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_082_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_082_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Iska, Monster Feller",
+      "fr": "Iska, Bûcheron des monstres"
+    },
+    "type": "Hunter",
+    "cost": 7,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-083": {
+    "id": "MhFG-083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Switch Axe Technician",
+          "fr": "Technicien en Morpho-hache"
+        },
+        "type": "Hunter",
+        "cost": 4,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_083_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_083_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Switch Axe Technician",
+      "fr": "Technicien en Morpho-hache"
+    },
+    "type": "Hunter",
+    "cost": 4,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-084": {
+    "id": "MhFG-084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Riven, Slashing Fury",
+          "fr": "Riven, furie tranchante"
+        },
+        "type": "Hunter",
+        "cost": 11,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_084_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_084_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Riven, Slashing Fury",
+      "fr": "Riven, furie tranchante"
+    },
+    "type": "Hunter",
+    "cost": 11,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-085": {
+    "id": "MhFG-085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Large Barrel Bomb",
+          "fr": "Grande bombe baril"
+        },
+        "type": "Item",
+        "cost": 4,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_085_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_085_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Large Barrel Bomb",
+      "fr": "Grande bombe baril"
+    },
+    "type": "Item",
+    "cost": 4,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-086": {
+    "id": "MhFG-086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Small Barrel Bomb",
+          "fr": "Petite bombe baril"
+        },
+        "type": "Item",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_086_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_086_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Small Barrel Bomb",
+      "fr": "Petite bombe baril"
+    },
+    "type": "Item",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-087": {
+    "id": "MhFG-087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Volcanic Stone",
+          "fr": "Pierre volcanique"
+        },
+        "type": "Item",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_087_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_087_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Volcanic Stone",
+      "fr": "Pierre volcanique"
+    },
+    "type": "Item",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-088": {
+    "id": "MhFG-088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Normal Ammo 2",
+          "fr": "Munition Normale Nv2"
+        },
+        "type": "Item",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_088_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_088_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Normal Ammo 2",
+      "fr": "Munition Normale Nv2"
+    },
+    "type": "Item",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-089": {
+    "id": "MhFG-089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Barrage Shot",
+          "fr": "Tir de barrage"
+        },
+        "type": "Technique",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_089_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_089_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Barrage Shot",
+      "fr": "Tir de barrage"
+    },
+    "type": "Technique",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-090": {
+    "id": "MhFG-090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Controlled Explosion",
+          "fr": "Explosion contrôlée"
+        },
+        "type": "Technique",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_090_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_090_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Controlled Explosion",
+      "fr": "Explosion contrôlée"
+    },
+    "type": "Technique",
+    "cost": 3,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-091": {
+    "id": "MhFG-091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Volcanic Rage",
+          "fr": "Rage volcanique"
+        },
+        "type": "Technique",
+        "cost": 2,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_091_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_091_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Volcanic Rage",
+      "fr": "Rage volcanique"
+    },
+    "type": "Technique",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-092": {
+    "id": "MhFG-092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Last Ember",
+          "fr": "Dernière braise"
+        },
+        "type": "Technique",
+        "cost": 3,
+        "image": {
+          "en": "https://soulsy28.github.io/MhTCG/Card/MhFG_092_en.jpg",
+          "fr": "https://soulsy28.github.io/MhTCG/Card/MhFG_092_fr.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Last Ember",
+      "fr": "Dernière braise"
+    },
+    "type": "Technique",
+    "cost": 3,
+    "Color": [
+      "Red"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    }
+  },
+  "MhFG-500": {
+    "id": "MhFG-500",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Brann, cycle master",
+          "fr": "Brann, maitre du cycle"
         },
         "type": "Hunt Chief",
         "cost": 0,
-        "Color": [
-            "Green",
-            "Yellow"
-        ],
-        "Set":[
-            "MhFG"
-        ],
-        "_legal":{
-            "PRE": true,
-            "STD": true
-        }
+        "image": {
+          "en": "",
+          "fr": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Brann, cycle master",
+      "fr": "Brann, maitre du cycle"
+    },
+    "type": "Hunt Chief",
+    "cost": 0,
+    "Color": [
+      "Green",
+      "Yellow"
+    ],
+    "Set": [
+      "MhFG"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
     }
+  }
 }
