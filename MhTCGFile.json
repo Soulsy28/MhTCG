@@ -242,42 +242,6 @@
                     },
                     "reverseZOrder": true
                 },
-                "myBF2": {
-                    "isHidden": "no",
-                    "height": "12",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Opponent Battlefield",
-                    "noQuickActions": true,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false,
-                    "cardStyle": {
-                        "marginTop": "-2vh"
-                    }
-                },
-                "myBF3": {
-                    "isHidden": "no",
-                    "height": "12",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Baron Pit",
-                    "noQuickActions": true,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false,
-                    "cardStyle": {
-                        "marginTop": "-2vh"
-                    }
-                },
                 "B1": {
                     "isHidden": "no",
                     "height": "16",
@@ -286,36 +250,6 @@
                     "noAutoPayTo": true,
                     "isHorizontalAllowed": true,
                     "displayedTitle": "BF Units 1",
-                    "noQuickActions": false,
-                    "enterTapped": true,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
-                },
-                "B2": {
-                    "isHidden": "no",
-                    "height": "16",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "BF Units 2",
-                    "noQuickActions": false,
-                    "enterTapped": true,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
-                },
-                "B3": {
-                    "isHidden": "no",
-                    "height": "16",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Baron Pit Units",
                     "noQuickActions": false,
                     "enterTapped": true,
                     "enterSpun": false,
